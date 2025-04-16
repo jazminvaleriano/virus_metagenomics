@@ -22,7 +22,7 @@ READS_DIR="results/kraken_unclassified_blast"
 #OUT_DIR="results/blast/unclassified_vs_virus"
 
 # Directories to blast vs prokaryotes:
-BLAST_DB="databases/blast/nt_viruses/ref_prok" 
+BLAST_DB="databases/blast/ref_prok/nt_prok"
 OUT_DIR="results/blast/unclassified_vs_prok"
 
 mkdir -p "$OUT_DIR"

@@ -11,17 +11,20 @@
 #SBATCH --mail-user=jazmin.valerianosaenz@students.unibe.ch
 
 # Load Flye 
-module load Flye
+module load Flye/2.9-GCC-10.3.0
 
 # Set your input/output
-READS="metagenomics_project/filtered_reads"
+READS="filtered_reads"
 OUTDIR="results/flye_assembly"
 
-for fq in "$READS"/*.fastq.gz; do
+for fq in "$READS"/*_filtered.fastq.gz; do
     sample=$(basename "$fq" _filtered.fastq.gz)
+    mkdir $OUTDIR/$sample
 
     # Run Flye in metagenome mode
     flye --nano-raw "$fq" \
-        --out-dir "$OUTDIR" \
+        --out-dir $OUTDIR/$sample \
         --meta \
         --threads $SLURM_CPUS_PER_TASK
+
+done

@@ -30,6 +30,7 @@ for fq in "$READS"/*_filtered.fastq.gz; do
     canu -p "$sample" -d "$OUTDIR/$sample" \
         genomeSize=$GENOME_SIZE \
         minInputCoverage=$MIN_COVERAGE \
+        stopOnLowCoverage=false \
         -nanopore-raw "$fq" \
         useGrid=false \
         maxThreads=$SLURM_CPUS_PER_TASK \

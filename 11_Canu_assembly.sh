@@ -16,7 +16,7 @@ module load canu/2.2-GCCcore-10.3.0-Java-11
 # Set paths
 READS="filtered_reads"
 OUTDIR="results/canu_assembly"
-GENOME_SIZE="50k"# Trying to balance for bacterial + viral contigs
+GENOME_SIZE="50k" # Trying to balance for bacterial + viral contigs
 MIN_COVERAGE="3"  # Trying to discover novel viruses  
 
 mkdir -p "$OUTDIR"

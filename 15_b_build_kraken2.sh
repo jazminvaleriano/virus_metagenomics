@@ -10,23 +10,17 @@
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=jazmin.valerianosaenz@students.unibe.ch
 
+# Rebuilding kraken 2 db to use with bracken
+
 module load Kraken2/2.1.2-gompi-2021a
 
-DB_DIR="databases/kraken2_custom"
+DB_DIR="databases/kraken2_bracken"
 
-# Clean any previous partial builds
-rm -rf "$DB_DIR"
 mkdir -p "$DB_DIR"
-
-# Download taxonomy and specific libraries (bacteria + viral + human)
-kraken2-build --download-taxonomy --db "$DB_DIR"
-kraken2-build --download-library bacteria --db "$DB_DIR"
-kraken2-build --download-library viral --db "$DB_DIR"
-kraken2-build --download-library human --db "$DB_DIR"
 
 # Build the database
 kraken2-build \
-  --build \
+  --standard \
   --threads 32 \
   --max-db-size 450000000000 \
   --db "$DB_DIR"

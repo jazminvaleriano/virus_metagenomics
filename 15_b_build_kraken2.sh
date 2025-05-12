@@ -26,4 +26,4 @@ kraken2-build \
   --db "$DB_DIR"
 
 # Cleanup to save space
-kraken2-build --clean --db "$DB_DIR"
+#kraken2-build --clean --db "$DB_DIR"

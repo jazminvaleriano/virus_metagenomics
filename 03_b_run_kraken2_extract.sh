@@ -12,9 +12,9 @@
 
 module load Kraken2/2.1.2-gompi-2021a
 
-DB_DIR="databases/kraken2_custom"
+DB_DIR="databases/kraken2_bracken"
 READS_DIR="filtered_reads"
-OUT_DIR="results/kraken_unclassified_blast"
+OUT_DIR="results/kraken_vs_standard"
 
 mkdir -p "$OUT_DIR"
 

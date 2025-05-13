@@ -15,7 +15,7 @@ module load Anaconda3
 eval "$(conda shell.bash hook)"
 conda activate bracken_env
 
-KRAKEN_DB="databases/kraken2_custom"
+KRAKEN_DB="databases/kraken2_bracken"
 
 
 # Bracken parameters

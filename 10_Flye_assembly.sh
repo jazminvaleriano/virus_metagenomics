@@ -15,14 +15,14 @@ module load Flye/2.9-GCC-10.3.0
 
 # Set your input/output
 READS="filtered_reads"
-OUTDIR="results/flye_assembly"
+OUTDIR="results/flye_assembly_hq"
 
 for fq in "$READS"/*_filtered.fastq.gz; do
     sample=$(basename "$fq" _filtered.fastq.gz)
-    mkdir $OUTDIR/$sample
+    mkdir -p $OUTDIR/$sample
 
     # Run Flye in metagenome mode
-    flye --nano-raw "$fq" \
+    flye --nano-hq "$fq" \
         --out-dir $OUTDIR/$sample \
         --meta \
         --threads $SLURM_CPUS_PER_TASK

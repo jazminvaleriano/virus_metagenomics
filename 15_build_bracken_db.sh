@@ -15,8 +15,7 @@ module load Anaconda3
 eval "$(conda shell.bash hook)"
 conda activate bracken_env
 
-KRAKEN_DB="databases/kraken2_bracken"
-
+KRAKEN_DB="databases/kraken2_std"
 
 # Bracken parameters
 KMER_LENGTH=35         # Default for Kraken2

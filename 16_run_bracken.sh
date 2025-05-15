@@ -15,8 +15,8 @@ eval "$(conda shell.bash hook)"
 conda activate bracken_env
 
 # Set paths
-REPORT_DIR="metagenomics_project/results/kraken_vs_standard"
-OUT_DIR="metagenomics_project/results/bracken_vs_standard"
+REPORT_DIR="results/kraken_vs_standard"
+OUT_DIR="results/bracken_vs_standard"
 DB="databases/kraken2_std"
 READ_LEN=800
 LEVEL="G"

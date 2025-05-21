@@ -4,7 +4,7 @@
 #SBATCH --error=logs/centrifuge_db%A.err
 #SBATCH --partition=epyc2
 #SBATCH --qos=job_cpu
-#SBATCH --time=2-00:00:00
+#SBATCH --time=2-12:00:00
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=512G
 #SBATCH --mail-type=END,FAIL

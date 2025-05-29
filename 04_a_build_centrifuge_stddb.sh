@@ -5,7 +5,7 @@
 #SBATCH --partition=epyc2
 #SBATCH --qos=job_cpu
 #SBATCH --time=2-12:00:00
-#SBATCH --cpus-per-task=16
+#SBATCH --cpus-per-task=8
 #SBATCH --mem=512G
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=jazmin.valerianosaenz@students.unibe.ch

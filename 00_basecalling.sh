@@ -1,19 +1,33 @@
 #!/bin/bash
-#SBATCH --job-name=dorado
-#SBATCH --cpus-per-task=8
+#SBATCH --job-name=dorado_gpu
+#SBATCH --partition=gpu               
+#SBATCH --qos=job_gpu                 
+#SBATCH --gres=gpu:1                 
+#SBATCH --cpus-per-task=4             
 #SBATCH --mem=32G
-#SBATCH --time=12:00:00
-#SBATCH --output=dorado_%j.out
+#SBATCH --time=08:00:00
+#SBATCH --output=logs/dorado_gpu_%A.out
+#SBATCH --error=logs/dorado_gpu_%A.err
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=jazmin.valerianosaenz@students.unibe.ch
 
-POD_FILES="/storage/research/vetsuisse_ivi/jvaleriano/20250324_1831_MN34349_FAY63474_1833a9d4/pod5"
-OUT_DIR="/storage/research/vetsuisse_ivi/jvaleriano/20250324_1831_MN34349_FAY63474_1833a9d4/RecalledReads_may29"
+module load CUDA/12.6.0 
 
-module load apptainer
+# Adding Dorado to PATH
+export PATH=/storage/research/vetsuisse_ivi/jvaleriano/tools/dorado/dorado-1.0.0-linux-x64/bin:$PATH
 
-apptainer run dorado.sif basecaller \
-  --model ./models/dna_r10.4.1_e8.2_400bps_hac@v4.3.0 \
+# Paths
+POD5_DIR="/storage/research/vetsuisse_ivi/jvaleriano/20250324_1831_MN34349_FAY63474_1833a9d4/pod5"
+OUT_DIR="/storage/research/vetsuisse_ivi/jvaleriano/20250324_1831_MN34349_FAY63474_1833a9d4/Rerun_basecall_20250603"
+MODEL_PATH="/storage/research/vetsuisse_ivi/jvaleriano/tools/dorado/models/dna_r10.4.1_e8.2_400bps_hac@v5.2.0/dna_r10.4.1_e8.2_400bps_hac@v5.2.0.jsn"
+
+mkdir -p "$OUT_DIR"
+
+# Execute Dorado basecaller
+dorado basecaller \
+  --model "$MODEL_PATH" \
   --flowcell FLO-MIN114 \
   --kit SQK-NBD114-96 \
-  --barcode-trim \
+  --detect-barcode \
   --min-qscore 9 \
-  $POD_FILES ./output
+  "$POD5_DIR" "$OUT_DIR"

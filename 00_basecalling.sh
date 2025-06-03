@@ -44,3 +44,15 @@ for BAM in "$DEMUX_DIR"/*.bam; do
   BARCODE=$(basename "$BAM" .bam)
   samtools fastq "$BAM" > "$FASTQ_DIR/${BARCODE}.fastq"
 done
+
+# Step 4: Rename files for clarity
+
+cd FASTQ_DIR="${OUT_DIR}/fastq"
+
+for f in *_barcode*.fastq; do
+    # Extract "barcode__"
+    bc=$(echo "$f" | grep -o 'barcode[0-9]*')
+    
+    # Rename file
+    mv "$f" "$bc.fastq"
+done

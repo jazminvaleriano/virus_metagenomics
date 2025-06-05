@@ -26,7 +26,7 @@ for tsv in "$IN_DIR"/*.centrifuge.tsv; do
     sample=$(basename "$tsv" .centrifuge.tsv)
 
     # Generate kreport format 
-    #centrifuge-kreport -x "$DB/p_compressed+h+v" "$tsv" > "$IN_DIR/${sample}.kreport.txt"
+    centrifuge-kreport -x "$DB/p_compressed+h+v" "$tsv" > "$IN_DIR/${sample}.kreport.txt"
 
     # Generate Krona HTML with explicit taxonomy path
     ktImportTaxonomy "$IN_DIR/${sample}.kreport.txt" \

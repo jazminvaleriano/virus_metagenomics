@@ -24,14 +24,14 @@ mkdir -p "$OUT_DIR"
 for fq in "$READS_DIR"/*.fastq.gz; do
     sample=$(basename "$fq" _filtered.fastq.gz)
 
-    # Run Kaiju classification
-    kaiju \
-        -t "$DB_DIR/nodes.dmp" \
-        -f "$DB" \
-        -i "$fq" \
-        -z 4 \
-        -o "$OUT_DIR/${sample}.kaiju.out" \
-        -x
+    # # Run Kaiju classification
+    # kaiju \
+    #     -t "$DB_DIR/nodes.dmp" \
+    #     -f "$DB" \
+    #     -i "$fq" \
+    #     -z 4 \
+    #     -o "$OUT_DIR/${sample}.kaiju.out" \
+    #     -x
 
     # Generate summary table
     kaiju2table \
@@ -39,7 +39,7 @@ for fq in "$READS_DIR"/*.fastq.gz; do
         -n "$DB_DIR/names.dmp" \
         -e \
         -r species \
-        -o "$OUT_DIR/${sample}.kaiju.summary" \
+        -o "$OUT_DIR/${sample}.kaiju.summary_species" \
         "$OUT_DIR/${sample}.kaiju.out"
 done
 

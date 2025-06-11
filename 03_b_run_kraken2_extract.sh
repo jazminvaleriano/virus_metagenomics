@@ -12,9 +12,9 @@
 
 module load Kraken2/2.1.2-gompi-2021a
 
-DB_DIR="databases/kraken2_bracken"
+DB_DIR="databases/kraken2_std"
 READS_DIR="filtered_reads/second_basecall"
-OUT_DIR="results/kraken_vs_standard"
+OUT_DIR="results/kraken_vs_standard/second_basecall"
 
 mkdir -p "$OUT_DIR"
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=kraken2_unclassified
-#SBATCH --output=logs/kraken2_unclassified_%A.out
-#SBATCH --error=logs/kraken2_unclassified_%A.err
+#SBATCH --output=logs/kraken2_%A.out
+#SBATCH --error=logs/kraken2_%A.err
 #SBATCH --partition=epyc2
 #SBATCH --qos=job_cpu
 #SBATCH --time=04:00:00
@@ -18,8 +18,8 @@ OUT_DIR="results/kraken_vs_standard/second_basecall"
 
 mkdir -p "$OUT_DIR"
 
-for fq in "$READS_DIR"/*.fastq.gz; do
-    sample=$(basename "$fq" _filtered.fastq.gz)
+for fq in "$READS_DIR"/*.fastq; do
+    sample=$(basename "$fq" _filtered.fastq)
 
     kraken2 \
         --db "$DB_DIR" \

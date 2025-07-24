@@ -44,4 +44,4 @@ jid12=$(sbatch --dependency=afterok:$jid11 --job-name=step12 --output=logs/step1
 # 12. Step 13
 jid13=$(sbatch --dependency=afterok:$jid12 --job-name=step12 --output=logs/step12.out scripts/13_plot_results.sh | awk '{print $4}')
 
-echo "🎬 Pipeline submitted! Final job ID: $jid13"
+echo "Pipeline submitted! Final job ID: $jid13"

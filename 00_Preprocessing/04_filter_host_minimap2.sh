@@ -17,6 +17,9 @@ HUMAN_GENOME=/storage/research/vetsuisse_ivi/jvaleriano/Final_databases/referenc
 READS_DIR=01_length-filtered_reads
 OUT_DIR=02_host_depleted_reads
 
+ERR_LOG=logs/minimap2${SLURM_JOB_ID}.err
+PARSE_SCRIPT=scripts/00_Preprocessing/parse_minimap.py
+
 mkdir -p "$OUT_DIR"
 
 # Index genomes (run just once)
@@ -41,3 +44,7 @@ for fq in "$READS_DIR"/*.fastq; do
     # Cleanup
     rm "$OUT_DIR/${sample}_step1_unmapped.fastq"
 done
+
+# Parse log file
+
+python $PARSE_SCRIPT $ERR_LOG $OUT_DIR/host_mapping_summary.csv

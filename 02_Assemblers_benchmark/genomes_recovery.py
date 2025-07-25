@@ -3,9 +3,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Set working directory
-os.chdir("/Users/jazminvaleriano/Library/Mobile Documents/com~apple~CloudDocs/03 UNIFR MS/00. SP25/00.MASTER_THESIS/FINAL_CHAPTERS/02_Assembles_evaluation/04_OM_SZ_EFFECT")
-
 # Global font and style settings
 plt.rcParams.update({
     "font.size": 12,

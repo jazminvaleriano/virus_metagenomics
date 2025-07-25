@@ -23,35 +23,35 @@ annotate_report () {
     local readid_field="$4"     # 1-based column index of readID in input
     local temp_prefix="$5"
 
-    echo "🔍 Extracting unique taxIDs from $input_report ..."
+    echo "Extracting unique taxIDs from $input_report ..."
     cut -f"$taxid_field" "$input_report" | sort -u > taxids.txt
 
-    echo "🧬 Annotating taxIDs with lineage..."
+    echo "Annotating taxIDs with lineage..."
     taxonkit lineage taxids.txt | \
     taxonkit reformat -f "{k};{p};{c};{o};{f};{g};{s}" | \
     awk -F'\t' 'BEGIN{OFS="\t"} {print $1, $2}' > taxid_lineage.tsv
 
     echo -e "taxID\tlineage" | cat - taxid_lineage.tsv > taxid_lineage_with_header.tsv
 
-    echo "📎 Extracting readID and taxID from report..."
+    echo "Extracting readID and taxID from report..."
     awk -F'\t' -v r="$readid_field" -v t="$taxid_field" 'BEGIN{OFS="\t"} {print $r, $t}' "$input_report" > "${temp_prefix}_core.tsv"
     echo -e "readID\ttaxID" | cat - "${temp_prefix}_core.tsv" > "${temp_prefix}_core_with_header.tsv"
 
-    echo "🔗 Joining lineage info..."
+    echo "Joining lineage info..."
     csvtk join -t -f taxID taxid_lineage_with_header.tsv "${temp_prefix}_core_with_header.tsv" | \
     awk -F'\t' 'BEGIN{OFS="\t"} {print $2, $1, $3}' > "$output_report"
 
-    echo "🧹 Cleaning up..."
+    echo "Cleaning up..."
     rm taxids.txt taxid_lineage.tsv taxid_lineage_with_header.tsv "${temp_prefix}_core.tsv" "${temp_prefix}_core_with_header.tsv"
-    echo "✅ Saved: $output_report"
+    echo " Saved: $output_report"
 }
 
 # ----------- RUN FOR EACH TOOL -----------
-echo "🌀 CENTRIFUGE"
+echo "CENTRIFUGE"
 annotate_report "$CENTRIFUGE_REPORT" "$CENTRIFUGE_OUT" 3 1 "centrifuge"
 
-echo "💎 DIAMOND"
+echo "DIAMOND"
 annotate_report "$DIAMOND_REPORT" "$DIAMOND_OUT" 2 1 "diamond"
 
-echo "🐙 KRAKEN2"
+echo "KRAKEN2"
 annotate_report "$KRAKEN_REPORT" "$KRAKEN_OUT" 3 2 "kraken"

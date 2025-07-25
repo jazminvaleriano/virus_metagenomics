@@ -33,4 +33,4 @@ read_analysis.py metagenome \
   --chimeric \
   -t "$THREADS"
 
-echo "✅ NanoSim training completed. Output: $OUTDIR"
+echo "NanoSim training completed. Output: $OUTDIR"

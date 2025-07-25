@@ -40,7 +40,7 @@ for tool in $TOOLS; do
     fi
 done
 
-# 2. Escribir cabecera completa
+# 2. Escribir headers completos
 {
     echo -ne "Assembly"
     for col in "${ALL_COLUMNS[@]}"; do
@@ -89,7 +89,7 @@ done
 
 # NGA50 report
 
-# 1. Detectar todas las columnas posibles
+# 1. Detect todas las columnas posibles
 ALL_COLUMNS=()
 for tool in $TOOLS; do
     REPORT_PATH="$RESULTS_DIR/$tool/summary/TSV/NGA50.tsv"
@@ -104,7 +104,7 @@ for tool in $TOOLS; do
     fi
 done
 
-# 2. Escribir cabecera completa
+# 2. Escribir headers completos
 {
     echo -ne "Assembly"
     for col in "${ALL_COLUMNS[@]}"; do

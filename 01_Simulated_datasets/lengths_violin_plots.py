@@ -82,7 +82,7 @@ color_map = {
     "Full simulated_pretrained": "#438cd1"
 
 }
-# Create the plots
+# Create the linear scale plots
 plt.figure(figsize=(14, 6))
 sns.violinplot(
     data=final_df,
@@ -100,20 +100,18 @@ sns.violinplot(
 
 # Axis formatting
 plt.ylim(0, 20000)
-plt.ylabel("log Length (bp)", labelpad=10)
+plt.ylabel("Length (bp)", labelpad=10)
 plt.xlabel("")
 plt.xticks(rotation=0)
 plt.grid(True, axis='y', linestyle='--', linewidth=0.5, alpha=0.7)
 plt.tight_layout()
 
 # Save figures
-# plt.savefig("log_lengths_violin_pub.pdf", bbox_inches="tight")
-# plt.savefig("log_lengths_violin_pub.svg", bbox_inches="tight")
-# plt.savefig("log_lengths_violin_pub.png", dpi=600)
+plt.savefig("log_lengths_violin_pub.svg", bbox_inches="tight")
 
 plt.show()
 
-# Create the plots
+# Create the log scale plots
 plt.figure(figsize=(14, 6))
 sns.violinplot(
     data=final_df,

@@ -14,8 +14,8 @@ module load SAMtools/1.13-GCC-10.3.0
 # Paths
 PIG_GENOME=/storage/research/vetsuisse_ivi/jvaleriano/Final_databases/references/pig/Sus_scrofa.Sscrofa11.1.dna.toplevel.fa
 HUMAN_GENOME=/storage/research/vetsuisse_ivi/jvaleriano/Final_databases/references/human/GRCh38.primary_assembly.genome.fa
-READS_DIR=$WORKDIR/01_length-filtered_reads
-OUT_DIR=$WORKDIR/02_host_depleted_reads
+READS_DIR=01_length-filtered_reads
+OUT_DIR=02_host_depleted_reads
 
 mkdir -p "$OUT_DIR"
 

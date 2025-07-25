@@ -11,7 +11,7 @@
 
 module load Anaconda3
 eval "$(conda shell.bash hook)"
-conda activate kaiju_env
+conda activate metagenomics_env
 
 #=====CONFIG==================================
 SUBSET_NAME=SHORT

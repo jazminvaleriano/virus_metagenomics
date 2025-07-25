@@ -1,0 +1,5 @@
+
+The following have been reloaded with a version change:
+  1) zlib/1.2.11-GCCcore-10.3.0 => zlib/.1.2.11-GCCcore-10.3.0
+
+mkdir: cannot create directory ‘/02_host_depleted_reads’: Permission denied

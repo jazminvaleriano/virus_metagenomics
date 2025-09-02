@@ -1,0 +1,460 @@
+3.97	1985	1985	U	Unclassified	Unclassified
+96.03	48015	15	NA	cellular organisms	cellular organisms
+96.00	48000	992	D	Bacteria	  Bacteria
+72.08	36042	73	K	Bacillati	    Bacillati
+3.04	1520	1	P	Actinomycetota	      Actinomycetota
+3.02	1509	59	C	Actinomycetes	        Actinomycetes
+0.00	1	1	S	Trueperella pyogenes	                Trueperella pyogenes
+0.01	4	1	G	Bifidobacterium	              Bifidobacterium
+0.00	1	1	S	Bifidobacterium adolescentis	                Bifidobacterium adolescentis
+0.00	1	1	S	Bifidobacterium breve	                Bifidobacterium breve
+0.00	1	1	S	Bifidobacterium longum	                Bifidobacterium longum
+0.00	1	1	S	Frankia sp. Allo2	                  Frankia sp. Allo2
+0.00	1	1	S	Jiangella alba	                Jiangella alba
+0.00	1	1	S	Streptomyces sp. MP131-18	                  Streptomyces sp. MP131-18
+0.00	2	1	O	Micrococcales	          Micrococcales
+0.00	1	1	G	Brevibacterium	              Brevibacterium
+0.31	155	98	G	Corynebacterium	              Corynebacterium
+0.00	1	1	S	Corynebacterium casei	                Corynebacterium casei
+0.00	1	1	S	Corynebacterium durum	                Corynebacterium durum
+0.08	42	42	S	Corynebacterium stationis	                Corynebacterium stationis
+0.00	1	1	S	Corynebacterium yonathiae	                Corynebacterium yonathiae
+0.02	10	10	S	Corynebacterium sp. MSK158	                  Corynebacterium sp. MSK158
+0.00	2	2	S	Corynebacterium sp. NML120713	                  Corynebacterium sp. NML120713
+0.00	1	1	S	Gordonia amicalis	                Gordonia amicalis
+0.00	1	1	G	Lawsonella	              Lawsonella
+2.55	1277	11	F	Propionibacteriaceae	            Propionibacteriaceae
+0.00	1	1	S	Acidipropionibacterium jensenii	                Acidipropionibacterium jensenii
+2.53	1265	1128	G	Cutibacterium	              Cutibacterium
+0.23	113	113	S	Cutibacterium acnes	                Cutibacterium acnes
+0.01	4	4	S	Cutibacterium avidum	                Cutibacterium avidum
+0.00	2	2	S	Cutibacterium equinum	                Cutibacterium equinum
+0.00	1	1	S	Cutibacterium granulosum	                Cutibacterium granulosum
+0.00	2	2	S	Cutibacterium modestum	                Cutibacterium modestum
+0.01	6	6	S	Cutibacterium namnetense	                Cutibacterium namnetense
+0.00	1	1	S	Cutibacterium porci	                Cutibacterium porci
+0.01	4	4	S	Cutibacterium sp.	                  Cutibacterium sp.
+0.01	4	4	S	Cutibacterium sp. SC8-2W	                  Cutibacterium sp. SC8-2W
+0.00	1	1	S	Haloechinothrix halophila	                Haloechinothrix halophila
+0.01	4	4	S	Nocardiopsis exhalans	                Nocardiopsis exhalans
+0.00	1	1	F	Streptosporangiaceae	            Streptosporangiaceae
+0.00	2	2	S	Thermophilibacter provencensis	                Thermophilibacter provencensis
+0.00	1	1	S	Collinsella aerofaciens	                Collinsella aerofaciens
+0.00	2	2	S	Collinsella sp. AM16-21	                  Collinsella sp. AM16-21
+0.00	1	1	S	Collinsella sp. AM28-11LB	                  Collinsella sp. AM28-11LB
+0.00	1	1	S	Enorma massiliensis	                Enorma massiliensis
+0.00	1	1	S	Anaerotardibacter muris	                Anaerotardibacter muris
+0.00	1	1	S	Eggerthella lenta	                Eggerthella lenta
+0.00	1	1	S	Eggerthella sp. AM16-19	                  Eggerthella sp. AM16-19
+68.90	34448	275	P	Bacillota	      Bacillota
+66.85	33424	121	C	Bacilli	        Bacilli
+41.08	20538	334	O	Bacillales	          Bacillales
+0.00	2	2	S	Abyssicoccus albus	                Abyssicoccus albus
+0.00	2	2	S	Saccharococcus caldoxylosilyticus	                Saccharococcus caldoxylosilyticus
+0.12	61	17	F	Bacillaceae	            Bacillaceae
+0.00	1	1	S	Bacillus cereus	                  Bacillus cereus
+0.01	6	6	S	Bacillus mediterraneensis	                Bacillus mediterraneensis
+0.00	1	1	S	Bacillus subtilis	                  Bacillus subtilis
+0.00	1	1	S	Bacillus sp. EB600	                  Bacillus sp. EB600
+0.00	1	1	S	Bacillus sp. SD088	                  Bacillus sp. SD088
+0.00	1	1	S	Cerasibacillus terrae	                Cerasibacillus terrae
+0.00	2	1	NR	unclassified Cytobacillus	                unclassified Cytobacillus
+0.00	1	1	S	Cytobacillus sp. S13-E01	                  Cytobacillus sp. S13-E01
+0.01	5	5	S	Filobacillus milosensis	                Filobacillus milosensis
+0.00	1	1	S	Halobacillus sp. BBL2006	                  Halobacillus sp. BBL2006
+0.00	1	1	S	Lentibacillus jeotgali	                Lentibacillus jeotgali
+0.00	1	1	S	Lysinibacillus sp. Y5S-8	                  Lysinibacillus sp. Y5S-8
+0.00	1	1	S	Mesobacillus foraminis	                Mesobacillus foraminis
+0.00	1	1	S	Metabacillus indicus	                Metabacillus indicus
+0.00	1	1	G	Neobacillus	              Neobacillus
+0.00	1	1	S	Numidum massiliense	                Numidum massiliense
+0.00	1	1	S	Oceanobacillus neutriphilus	                Oceanobacillus neutriphilus
+0.00	1	1	S	Paracerasibacillus soli	                Paracerasibacillus soli
+0.00	1	1	S	Peribacillus glennii	                Peribacillus glennii
+0.00	1	1	S	Peribacillus kribbensis	                Peribacillus kribbensis
+0.00	1	1	S	Pontibacillus litoralis	                Pontibacillus litoralis
+0.00	1	1	S	Pseudoneobacillus rhizosphaerae	                Pseudoneobacillus rhizosphaerae
+0.00	1	1	S	Psychrobacillus psychrodurans	                Psychrobacillus psychrodurans
+0.00	1	1	S	Psychrobacillus sp. FSL W7-1493	                  Psychrobacillus sp. FSL W7-1493
+0.00	1	1	G	Shouchella	              Shouchella
+0.00	1	1	S	Siminovitchia acidinfaciens	                Siminovitchia acidinfaciens
+0.00	1	1	S	Thalassobacillus devorans	                Thalassobacillus devorans
+0.00	1	1	S	Thalassobacillus sp. CUG 92003	                  Thalassobacillus sp. CUG 92003
+0.01	7	1	G	Virgibacillus	              Virgibacillus
+0.00	1	1	S	Virgibacillus ihumii	                Virgibacillus ihumii
+0.00	1	1	S	Virgibacillus litoralis	                Virgibacillus litoralis
+0.00	1	1	S	Virgibacillus proomii	                Virgibacillus proomii
+0.00	1	1	S	Virgibacillus salidurans	                Virgibacillus salidurans
+0.00	1	1	S	Virgibacillus tibetensis	                Virgibacillus tibetensis
+0.00	1	1	S	Virgibacillus sp.	                  Virgibacillus sp.
+0.00	1	1	S	Thermicanus aegyptius	                  Thermicanus aegyptius
+0.00	1	1	G	Exiguobacterium	                Exiguobacterium
+0.02	8	1	F	Caryophanaceae	            Caryophanaceae
+0.00	1	1	S	Indiicoccus explosivorum	                Indiicoccus explosivorum
+0.00	1	1	G	Jeotgalibacillus	              Jeotgalibacillus
+0.00	1	1	G	Kurthia	              Kurthia
+0.00	1	1	S	Planococcus salinus	                Planococcus salinus
+0.00	2	1	G	Sporosarcina	              Sporosarcina
+0.00	1	1	S	Sporosarcina sp. HYO08	                  Sporosarcina sp. HYO08
+0.00	1	1	S	Tetzosporium hominis	                Tetzosporium hominis
+0.00	1	1	S	Guptibacillus hwajinpoensis	                Guptibacillus hwajinpoensis
+0.09	44	24	F	Paenibacillaceae	            Paenibacillaceae
+0.00	1	1	S	Brevibacillus humidisoli	                Brevibacillus humidisoli
+0.04	19	3	G	Paenibacillus	              Paenibacillus
+0.00	1	1	S	Paenibacillus barengoltzii	                Paenibacillus barengoltzii
+0.02	12	12	S	Paenibacillus bouchesdurhonensis	                Paenibacillus bouchesdurhonensis
+0.00	1	1	S	Paenibacillus xerothermodurans	                Paenibacillus xerothermodurans
+0.00	1	1	S	Paenibacillus xylanivorans	                Paenibacillus xylanivorans
+0.00	1	1	S	Paenibacillus sp. Y412MC10	                  Paenibacillus sp. Y412MC10
+0.00	2	2	S	Lacicoccus qingdaonensis	                Lacicoccus qingdaonensis
+0.01	3	1	G	Phocicoccus	              Phocicoccus
+0.00	1	1	S	Phocicoccus pinnipedialis	                Phocicoccus pinnipedialis
+0.00	1	1	S	Phocicoccus schoeneichii	                Phocicoccus schoeneichii
+0.00	2	1	G	Sporolactobacillus	              Sporolactobacillus
+0.00	1	1	S	Sporolactobacillus vineae	                Sporolactobacillus vineae
+40.15	20074	303	F	Staphylococcaceae	            Staphylococcaceae
+0.01	4	4	S	Aliicoccus persicus	                Aliicoccus persicus
+39.35	19677	15298	G	Jeotgalicoccus	              Jeotgalicoccus
+0.04	19	19	S	Jeotgalicoccus aerolatus	                Jeotgalicoccus aerolatus
+0.01	5	5	S	Jeotgalicoccus coquinae	                Jeotgalicoccus coquinae
+0.01	5	5	S	Jeotgalicoccus halotolerans	                Jeotgalicoccus halotolerans
+0.22	110	110	S	Jeotgalicoccus marinus	                Jeotgalicoccus marinus
+0.07	36	36	S	Jeotgalicoccus meleagridis	                Jeotgalicoccus meleagridis
+0.00	1	1	S	Jeotgalicoccus nanhaiensis	                Jeotgalicoccus nanhaiensis
+0.01	6	6	S	Jeotgalicoccus psychrophilus	                Jeotgalicoccus psychrophilus
+0.01	6	6	S	Jeotgalicoccus saudimassiliensis	                Jeotgalicoccus saudimassiliensis
+8.38	4191	1131	NR	unclassified Jeotgalicoccus	                unclassified Jeotgalicoccus
+6.01	3007	3007	S	Jeotgalicoccus sp. ATCC 8456	                  Jeotgalicoccus sp. ATCC 8456
+0.00	1	1	S	Jeotgalicoccus sp. FSL K6-3177	                  Jeotgalicoccus sp. FSL K6-3177
+0.10	50	50	S	Jeotgalicoccus sp. S0W5	                  Jeotgalicoccus sp. S0W5
+0.00	2	2	S	Jeotgalicoccus sp. WY2	                  Jeotgalicoccus sp. WY2
+0.00	2	2	S	Macrococcoides caseolyticum	                Macrococcoides caseolyticum
+0.00	1	1	S	Macrococcoides goetzii	                Macrococcoides goetzii
+0.01	3	2	G	Macrococcus	              Macrococcus
+0.00	1	1	S	Macrococcus brunensis	                Macrococcus brunensis
+0.01	4	1	G	Mammaliicoccus	              Mammaliicoccus
+0.00	1	1	S	Mammaliicoccus fleurettii	                Mammaliicoccus fleurettii
+0.00	2	1	NR	unclassified Mammaliicoccus	                unclassified Mammaliicoccus
+0.00	1	1	S	Mammaliicoccus sp. Marseille-Q6498	                  Mammaliicoccus sp. Marseille-Q6498
+0.01	5	4	G	Nosocomiicoccus	              Nosocomiicoccus
+0.00	1	1	S	Nosocomiicoccus ampullae	                Nosocomiicoccus ampullae
+0.04	19	9	G	Salinicoccus	              Salinicoccus
+0.00	2	2	S	Salinicoccus albus	                Salinicoccus albus
+0.00	1	1	S	Salinicoccus carnicancri	                Salinicoccus carnicancri
+0.01	3	3	S	Salinicoccus halodurans	                Salinicoccus halodurans
+0.00	2	2	S	Salinicoccus hispanicus	                Salinicoccus hispanicus
+0.00	1	1	S	Salinicoccus jeotgali	                Salinicoccus jeotgali
+0.00	1	1	S	Salinicoccus sediminis	                Salinicoccus sediminis
+0.11	56	11	G	Staphylococcus	              Staphylococcus
+0.00	1	1	S	Staphylococcus arlettae	                Staphylococcus arlettae
+0.04	20	20	S	Staphylococcus aureus	                Staphylococcus aureus
+0.00	1	1	S	Staphylococcus canis	                Staphylococcus canis
+0.00	1	1	S	Staphylococcus capitis	                Staphylococcus capitis
+0.00	1	1	S	Staphylococcus chromogenes	                Staphylococcus chromogenes
+0.00	1	1	S	Staphylococcus cohnii	                  Staphylococcus cohnii
+0.01	4	4	S	Staphylococcus epidermidis	                Staphylococcus epidermidis
+0.00	1	1	S	Staphylococcus equorum	                Staphylococcus equorum
+0.00	1	1	S	Staphylococcus haemolyticus	                Staphylococcus haemolyticus
+0.01	4	4	S	Staphylococcus pseudintermedius	                  Staphylococcus pseudintermedius
+0.00	1	1	S	Staphylococcus kloosii	                Staphylococcus kloosii
+0.00	1	1	S	Staphylococcus nepalensis	                Staphylococcus nepalensis
+0.00	2	2	S	Staphylococcus saprophyticus	                Staphylococcus saprophyticus
+0.00	1	1	S	Staphylococcus simiae	                Staphylococcus simiae
+0.00	1	1	S	Staphylococcus simulans	                Staphylococcus simulans
+0.01	4	4	S	Staphylococcus warneri	                Staphylococcus warneri
+0.00	1	1	S	Baia soyae	                Baia soyae
+0.00	1	1	S	Lihuaxuella thermophila	                Lihuaxuella thermophila
+0.00	1	1	S	Polycladospora coralii	                Polycladospora coralii
+25.53	12765	135	O	Lactobacillales	          Lactobacillales
+0.35	176	4	F	Aerococcaceae	            Aerococcaceae
+0.00	1	1	G	Abiotrophia	              Abiotrophia
+0.00	1	1	S	Aerococcus christensenii	                Aerococcus christensenii
+0.00	1	1	S	Aerococcus urinaehominis	                Aerococcus urinaehominis
+0.34	169	47	G	Ruoffia	              Ruoffia
+0.00	1	1	S	Ruoffia halotolerans	                Ruoffia halotolerans
+0.24	121	121	S	Ruoffia tabacinasalis	                Ruoffia tabacinasalis
+0.00	1	1	G	Desemzia	              Desemzia
+0.00	1	1	NR	unclassified Granulicatella	                unclassified Granulicatella
+0.05	26	1	F	Enterococcaceae	            Enterococcaceae
+0.04	20	2	G	Enterococcus	              Enterococcus
+0.00	1	1	S	Candidatus Enterococcus lowellii	                Candidatus Enterococcus lowellii
+0.00	1	1	S	Enterococcus faecalis	                Enterococcus faecalis
+0.01	3	3	S	Enterococcus faecium	                Enterococcus faecium
+0.00	1	1	S	Enterococcus mundtii	                Enterococcus mundtii
+0.02	12	1	NR	unclassified Enterococcus	                unclassified Enterococcus
+0.02	11	11	S	Enterococcus sp. 3G6_DIV0642	                  Enterococcus sp. 3G6_DIV0642
+0.01	5	5	S	Vagococcus lutrae	                Vagococcus lutrae
+24.54	12269	482	F	Lactobacillaceae	            Lactobacillaceae
+0.00	1	1	S	Apilactobacillus apinorum	                Apilactobacillus apinorum
+0.00	2	1	G	Companilactobacillus	              Companilactobacillus
+0.00	1	1	S	Companilactobacillus mishanensis	                Companilactobacillus mishanensis
+0.00	1	1	S	Lacticaseibacillus saniviri	                Lacticaseibacillus saniviri
+0.01	3	3	S	Lactiplantibacillus plantarum	                Lactiplantibacillus plantarum
+21.77	10883	8257	G	Lactobacillus	              Lactobacillus
+0.01	4	4	S	Lactobacillus acetotolerans	                Lactobacillus acetotolerans
+0.06	30	30	S	Lactobacillus acidophilus	                Lactobacillus acidophilus
+0.01	3	3	S	Lactobacillus agrestimuris	                Lactobacillus agrestimuris
+0.01	3	3	S	Lactobacillus amylolyticus	                Lactobacillus amylolyticus
+4.13	2066	2066	S	Lactobacillus amylovorus	                Lactobacillus amylovorus
+0.00	1	1	S	Lactobacillus apis	                Lactobacillus apis
+0.01	3	3	S	Lactobacillus colini	                Lactobacillus colini
+0.01	4	4	S	Lactobacillus corticis	                Lactobacillus corticis
+0.18	92	92	S	Lactobacillus crispatus	                Lactobacillus crispatus
+0.00	2	2	S	Lactobacillus delbrueckii	                Lactobacillus delbrueckii
+0.01	3	3	S	Lactobacillus equicursoris	                Lactobacillus equicursoris
+0.11	56	56	S	Lactobacillus gallinarum	                Lactobacillus gallinarum
+0.00	2	2	S	Lactobacillus gigeriorum	                Lactobacillus gigeriorum
+0.01	4	4	S	Lactobacillus hamsteri	                Lactobacillus hamsteri
+0.25	123	123	S	Lactobacillus helveticus	                Lactobacillus helveticus
+0.01	6	6	S	Lactobacillus intestinalis	                Lactobacillus intestinalis
+0.04	21	21	S	Lactobacillus johnsonii	                Lactobacillus johnsonii
+0.01	6	6	S	Lactobacillus kalixensis	                Lactobacillus kalixensis
+0.03	13	13	S	Lactobacillus kefiranofaciens	                Lactobacillus kefiranofaciens
+0.11	54	54	S	Lactobacillus kitasatonis	                Lactobacillus kitasatonis
+0.00	1	1	S	Lactobacillus mulieris	                Lactobacillus mulieris
+0.00	2	2	S	Lactobacillus paragasseri	                Lactobacillus paragasseri
+0.01	5	5	S	Lactobacillus porci	                Lactobacillus porci
+0.00	1	1	S	Lactobacillus selangorensis	                Lactobacillus selangorensis
+0.00	1	1	S	Lactobacillus taiwanensis	                Lactobacillus taiwanensis
+0.03	16	16	S	Lactobacillus ultunensis	                Lactobacillus ultunensis
+0.08	42	42	S	uncultured Lactobacillus sp.	                  uncultured Lactobacillus sp.
+0.12	62	13	NR	unclassified Lactobacillus	                unclassified Lactobacillus
+0.00	1	1	S	Lactobacillus sp.	                  Lactobacillus sp.
+0.00	1	1	S	Lactobacillus sp. A27	                  Lactobacillus sp. A27
+0.00	1	1	S	Lactobacillus sp. ESL0677	                  Lactobacillus sp. ESL0677
+0.00	2	2	S	Lactobacillus sp. ESL0701	                  Lactobacillus sp. ESL0701
+0.00	1	1	S	Lactobacillus sp. ESL0785	                  Lactobacillus sp. ESL0785
+0.00	1	1	S	Lactobacillus sp. LL6	                  Lactobacillus sp. LL6
+0.03	15	15	S	Lactobacillus sp. N54.MGS-719	                  Lactobacillus sp. N54.MGS-719
+0.05	26	26	S	Lactobacillus sp. OTU4228	                  Lactobacillus sp. OTU4228
+0.00	1	1	S	Lactobacillus sp. UMNPBX17	                  Lactobacillus sp. UMNPBX17
+0.00	1	1	G	Lentilactobacillus	              Lentilactobacillus
+0.01	3	3	S	Leuconostoc mesenteroides	                Leuconostoc mesenteroides
+0.00	1	1	S	Levilactobacillus bambusae	                Levilactobacillus bambusae
+0.00	1	1	S	Levilactobacillus namurensis	                Levilactobacillus namurensis
+0.00	1	1	S	Levilactobacillus spicheri	                Levilactobacillus spicheri
+0.04	19	1	G	Ligilactobacillus	              Ligilactobacillus
+0.00	1	1	S	Ligilactobacillus animalis	                Ligilactobacillus animalis
+0.02	10	10	S	Ligilactobacillus aviarius	                Ligilactobacillus aviarius
+0.00	1	1	S	Ligilactobacillus hohenheimensis	                Ligilactobacillus hohenheimensis
+0.00	1	1	S	Ligilactobacillus murinus	                Ligilactobacillus murinus
+0.00	2	2	S	Ligilactobacillus saerimneri	                Ligilactobacillus saerimneri
+0.01	3	3	S	Ligilactobacillus salivarius	                Ligilactobacillus salivarius
+1.73	863	467	G	Limosilactobacillus	              Limosilactobacillus
+0.00	1	1	S	Limosilactobacillus antri	                Limosilactobacillus antri
+0.00	1	1	S	Limosilactobacillus avistercoris	                Limosilactobacillus avistercoris
+0.00	1	1	S	Limosilactobacillus balticus	                Limosilactobacillus balticus
+0.01	3	3	S	Limosilactobacillus caccae	                Limosilactobacillus caccae
+0.00	1	1	S	Limosilactobacillus caviae	                Limosilactobacillus caviae
+0.01	6	6	S	Limosilactobacillus coleohominis	                Limosilactobacillus coleohominis
+0.00	1	1	S	Limosilactobacillus frumenti	                Limosilactobacillus frumenti
+0.00	1	1	S	Limosilactobacillus ingluviei	                Limosilactobacillus ingluviei
+0.00	1	1	S	Limosilactobacillus mucosae	                Limosilactobacillus mucosae
+0.01	3	3	S	Limosilactobacillus oris	                Limosilactobacillus oris
+0.00	1	1	S	Limosilactobacillus pontis	                Limosilactobacillus pontis
+0.74	369	369	S	Limosilactobacillus reuteri	                Limosilactobacillus reuteri
+0.01	4	4	S	Limosilactobacillus vaginalis	                Limosilactobacillus vaginalis
+0.00	2	2	S	uncultured Limosilactobacillus sp.	                  uncultured Limosilactobacillus sp.
+0.00	1	1	S	Limosilactobacillus sp. DJ3M12	                  Limosilactobacillus sp. DJ3M12
+0.00	2	2	S	Liquorilactobacillus hordei	                Liquorilactobacillus hordei
+0.00	2	2	S	Loigolactobacillus coryniformis	                Loigolactobacillus coryniformis
+0.00	1	1	S	Paucilactobacillus vaccinostercus	                Paucilactobacillus vaccinostercus
+0.01	3	1	G	Secundilactobacillus	              Secundilactobacillus
+0.00	2	2	S	Secundilactobacillus oryzae	                Secundilactobacillus oryzae
+0.31	157	35	G	Streptococcus	              Streptococcus
+0.23	113	113	S	Streptococcus acidominimus	                Streptococcus acidominimus
+0.00	2	2	S	Streptococcus orisratti	                Streptococcus orisratti
+0.01	4	4	S	Streptococcus suis	                Streptococcus suis
+0.00	2	2	S	Streptococcus thermophilus	                Streptococcus thermophilus
+0.00	1	1	NR	unclassified Streptococcus	                unclassified Streptococcus
+1.04	522	37	C	Clostridia	        Clostridia
+0.03	13	1	O	Eubacteriales	          Eubacteriales
+0.00	1	1	G	Clostridium	              Clostridium
+0.00	1	1	S	Eubacterium ventriosum	                Eubacterium ventriosum
+0.00	1	1	G	Intestinimonas	              Intestinimonas
+0.00	1	1	S	Faecalibacterium prausnitzii	                Faecalibacterium prausnitzii
+0.02	8	8	S	Ruminococcus sp.	                  Ruminococcus sp.
+0.86	430	32	F	Lachnospiraceae	            Lachnospiraceae
+0.34	171	135	G	Agathobacter	              Agathobacter
+0.07	34	34	S	Agathobacter rectalis	                Agathobacter rectalis
+0.00	1	1	S	uncultured Agathobacter sp.	                  uncultured Agathobacter sp.
+0.00	1	1	S	Agathobacter sp.	                  Agathobacter sp.
+0.00	1	1	S	Anaerobutyricum hallii	                Anaerobutyricum hallii
+0.01	5	1	G	Blautia	              Blautia
+0.00	1	1	S	Blautia obeum	                Blautia obeum
+0.00	1	1	S	Blautia wexlerae	                Blautia wexlerae
+0.00	2	2	S	uncultured Blautia sp.	                  uncultured Blautia sp.
+0.00	1	1	S	Butyrivibrio fibrisolvens	                Butyrivibrio fibrisolvens
+0.01	5	5	S	Coprococcus comes	                Coprococcus comes
+0.35	176	140	G	Dorea	              Dorea
+0.04	22	22	S	Dorea formicigenerans	                Dorea formicigenerans
+0.03	14	14	S	uncultured Dorea sp.	                  uncultured Dorea sp.
+0.00	1	1	S	Enterocloster sp.	                  Enterocloster sp.
+0.03	17	17	S	Eshraghiella crossota	                Eshraghiella crossota
+0.00	1	1	S	Konateibacter massiliensis	                Konateibacter massiliensis
+0.00	1	1	S	Mediterraneibacter faecis	                Mediterraneibacter faecis
+0.00	1	1	S	Mediterraneibacter gnavus	                Mediterraneibacter gnavus
+0.03	17	2	G	Roseburia	              Roseburia
+0.00	1	1	S	Roseburia intestinalis	                Roseburia intestinalis
+0.00	1	1	S	Roseburia inulinivorans	                Roseburia inulinivorans
+0.00	1	1	S	Roseburia zhanii	                Roseburia zhanii
+0.02	12	12	S	Roseburia sp. 831b	                  Roseburia sp. 831b
+0.00	1	1	S	Sellimonas intestinalis	                Sellimonas intestinalis
+0.00	1	1	S	Proteocatella sphenisci	                Proteocatella sphenisci
+0.04	19	19	S	Clostridioides difficile	                Clostridioides difficile
+0.04	22	22	S	Peptostreptococcus porci	                Peptostreptococcus porci
+0.03	15	5	F	Coprobacillaceae	            Coprobacillaceae
+0.02	10	4	G	Catenibacterium	              Catenibacterium
+0.01	4	4	S	Catenibacterium mitsuokai	                Catenibacterium mitsuokai
+0.00	1	1	S	uncultured Catenibacterium sp.	                  uncultured Catenibacterium sp.
+0.00	1	1	S	Catenibacterium sp. UBA627	                  Catenibacterium sp. UBA627
+0.00	1	1	S	Dubosiella newyorkensis	                Dubosiella newyorkensis
+0.42	210	1	C	Negativicutes	        Negativicutes
+0.00	1	1	S	Acidaminococcus timonensis	                Acidaminococcus timonensis
+0.00	1	1	S	Phascolarctobacterium succinatutens	                Phascolarctobacterium succinatutens
+0.00	1	1	S	Mitsuokella jalaludinii	                Mitsuokella jalaludinii
+0.00	1	1	S	Anaeroglobus geminatus	                Anaeroglobus geminatus
+0.41	205	174	G	Megasphaera	              Megasphaera
+0.06	28	28	S	Megasphaera elsdenii	                Megasphaera elsdenii
+0.00	2	2	S	uncultured Megasphaera sp.	                  uncultured Megasphaera sp.
+0.00	1	1	S	Megasphaera sp.	                  Megasphaera sp.
+0.00	1	1	F	Peptoniphilaceae	            Peptoniphilaceae
+0.00	1	1	S	Mastigocladopsis repens	                  Mastigocladopsis repens
+0.21	104	29	G	Fusobacterium	              Fusobacterium
+0.15	75	75	S	Fusobacterium necrophorum	                Fusobacterium necrophorum
+0.00	1	1	S	Oceanivirga miroungae	                Oceanivirga miroungae
+21.72	10860	118	K	Pseudomonadati	    Pseudomonadati
+0.00	1	1	S	Campylobacter upsaliensis	                Campylobacter upsaliensis
+13.85	6927	2	NA	FCB group	      FCB group
+13.85	6925	6	P	Bacteroidota	          Bacteroidota
+13.84	6919	1	C	Bacteroidia	            Bacteroidia
+13.84	6918	335	O	Bacteroidales	              Bacteroidales
+0.03	16	1	F	Bacteroidaceae	                Bacteroidaceae
+0.02	12	2	G	Bacteroides	                  Bacteroides
+0.00	1	1	S	Bacteroides acidifaciens	                    Bacteroides acidifaciens
+0.00	1	1	S	Bacteroides neonati	                    Bacteroides neonati
+0.00	1	1	S	Bacteroides ovatus	                    Bacteroides ovatus
+0.00	2	2	S	Bacteroides xylanisolvens	                    Bacteroides xylanisolvens
+0.00	1	1	S	uncultured Bacteroides sp.	                      uncultured Bacteroides sp.
+0.01	3	3	S	Bacteroides sp.	                      Bacteroides sp.
+0.00	1	1	S	Bacteroides sp. ET225	                      Bacteroides sp. ET225
+0.00	1	1	S	Phocaeicola massiliensis	                    Phocaeicola massiliensis
+0.00	1	1	S	Phocaeicola sartorii	                    Phocaeicola sartorii
+0.00	1	1	S	Phocaeicola sp.	                      Phocaeicola sp.
+0.00	1	1	S	Barnesiella intestinihominis	                    Barnesiella intestinihominis
+0.01	5	5	S	Barnesiella sp.	                      Barnesiella sp.
+13.12	6559	1591	F	Prevotellaceae	                Prevotellaceae
+0.01	6	4	G	Hallella	                  Hallella
+0.00	1	1	S	Hallella absiana	                    Hallella absiana
+0.00	1	1	S	Hallella sp.	                      Hallella sp.
+0.00	1	1	S	Hoylesella enoeca	                    Hoylesella enoeca
+0.01	4	4	S	Leyella stercorea	                    Leyella stercorea
+0.00	1	1	S	Paraprevotella clara	                    Paraprevotella clara
+0.17	85	14	G	Prevotella	                  Prevotella
+0.00	1	1	S	Prevotella dentasini	                    Prevotella dentasini
+0.00	1	1	S	Prevotella lacticifex	                    Prevotella lacticifex
+0.00	1	1	S	Prevotella merdae	                    Prevotella merdae
+0.00	1	1	S	Prevotella micans	                    Prevotella micans
+0.00	2	2	S	Prevotella pectinovora	                    Prevotella pectinovora
+0.00	1	1	S	Prevotella veroralis	                    Prevotella veroralis
+0.01	7	7	S	uncultured Prevotella sp.	                      uncultured Prevotella sp.
+0.11	57	4	NR	unclassified Prevotella	                    unclassified Prevotella
+0.02	9	9	S	Prevotella sp.	                      Prevotella sp.
+0.00	1	1	S	Prevotella sp. AGR2160	                      Prevotella sp. AGR2160
+0.00	2	2	S	Prevotella sp. AM34-19LB	                      Prevotella sp. AM34-19LB
+0.07	35	35	S	Prevotella sp. AM42-24	                      Prevotella sp. AM42-24
+0.01	4	4	S	Prevotella sp. B2-R-102	                      Prevotella sp. B2-R-102
+0.00	1	1	S	Prevotella sp. P3-122	                      Prevotella sp. P3-122
+0.00	1	1	S	Prevotella sp. P5-64	                      Prevotella sp. P5-64
+0.00	1	1	G	Prevotellamassilia	                  Prevotellamassilia
+9.74	4869	2236	G	Segatella	                  Segatella
+0.00	1	1	S	Segatella bryantii	                    Segatella bryantii
+0.00	1	1	S	Segatella buccae	                    Segatella buccae
+0.00	1	1	S	Segatella cerevisiae	                    Segatella cerevisiae
+4.85	2424	2424	S	Segatella copri	                    Segatella copri
+0.38	190	190	S	Segatella hominis	                    Segatella hominis
+0.00	1	1	S	Segatella paludivivens	                    Segatella paludivivens
+0.03	15	15	S	Segatella sp.	                      Segatella sp.
+0.00	1	1	S	Xylanibacter oryzae	                    Xylanibacter oryzae
+0.00	2	1	G	Parabacteroides	                  Parabacteroides
+0.00	1	1	S	Parabacteroides merdae	                    Parabacteroides merdae
+7.63	3813	64	P	Pseudomonadota	      Pseudomonadota
+0.02	9	1	C	Alphaproteobacteria	        Alphaproteobacteria
+0.00	1	1	S	Elioraea tepida	                Elioraea tepida
+0.00	1	1	S	Microvirga sp. 3-52	                  Microvirga sp. 3-52
+0.00	2	2	S	Candidatus Liberibacter solanacearum	                Candidatus Liberibacter solanacearum
+0.01	3	3	S	Rhizobium viscosum	                  Rhizobium viscosum
+0.00	1	1	S	uncultured Hyphomonas sp.	                  uncultured Hyphomonas sp.
+0.29	143	1	C	Betaproteobacteria	        Betaproteobacteria
+0.00	1	1	S	Burkholderia alba	                Burkholderia alba
+0.00	2	1	G	Mesosutterella	              Mesosutterella
+0.00	1	1	S	Mesosutterella porci	                Mesosutterella porci
+0.28	139	1	O	Neisseriales	          Neisseriales
+0.00	1	1	S	Laribacter hongkongensis	                Laribacter hongkongensis
+0.27	137	3	F	Neisseriaceae	            Neisseriaceae
+0.00	1	1	S	Alysiella crassa	                Alysiella crassa
+0.27	133	10	G	Neisseria	              Neisseria
+0.25	123	123	S	Neisseria shayeganii	                Neisseria shayeganii
+7.19	3597	17	C	Gammaproteobacteria	        Gammaproteobacteria
+0.00	1	1	S	Psychromonas sp. Urea-02u-13	                  Psychromonas sp. Urea-02u-13
+0.00	1	1	S	Acidihalobacter sp.	                  Acidihalobacter sp.
+0.09	43	2	O	Enterobacterales	          Enterobacterales
+0.02	8	8	S	Escherichia coli	                Escherichia coli
+0.00	2	2	S	Klebsiella pneumoniae	                    Klebsiella pneumoniae
+0.00	1	1	NR	unclassified Klebsiella	                  unclassified Klebsiella
+0.01	3	3	S	Salmonella enterica	                Salmonella enterica
+0.00	1	1	S	Erwinia mallotivora	                Erwinia mallotivora
+0.05	25	15	G	Proteus	              Proteus
+0.00	2	2	S	Proteus mirabilis	                Proteus mirabilis
+0.01	5	5	S	Proteus terrae	                Proteus terrae
+0.00	1	1	S	Proteus vulgaris	                Proteus vulgaris
+0.00	2	2	S	Proteus sp. ZN5	                  Proteus sp. ZN5
+0.00	1	1	S	Xenorhabdus kozodoii	                Xenorhabdus kozodoii
+0.00	1	1	S	Xanthomonas campestris	                Xanthomonas campestris
+0.00	1	1	S	Xylella fastidiosa	                Xylella fastidiosa
+0.01	3	3	S	Acinetobacter baumannii	                  Acinetobacter baumannii
+0.00	1	1	S	Acinetobacter pittii	                  Acinetobacter pittii
+0.01	4	2	NR	unclassified Moraxella	                unclassified Moraxella
+0.00	2	2	S	Moraxella sp. FZFQ2102	                  Moraxella sp. FZFQ2102
+0.00	1	1	S	Psychrobacter fulvigenes	                Psychrobacter fulvigenes
+0.00	1	1	F	Halomonadaceae	            Halomonadaceae
+7.03	3517	1913	F	Pasteurellaceae	            Pasteurellaceae
+0.04	19	4	G	Actinobacillus	              Actinobacillus
+0.01	5	5	S	Actinobacillus indolicus	                Actinobacillus indolicus
+0.01	6	6	S	Actinobacillus minor	                Actinobacillus minor
+0.01	3	3	S	Actinobacillus pleuropneumoniae	                Actinobacillus pleuropneumoniae
+0.00	1	1	S	Actinobacillus seminis	                Actinobacillus seminis
+0.00	1	1	S	Aggregatibacter aphrophilus	                Aggregatibacter aphrophilus
+0.00	1	1	S	Aggregatibacter sp. oral taxon 458	                  Aggregatibacter sp. oral taxon 458
+0.00	1	1	S	Avibacterium paragallinarum	                Avibacterium paragallinarum
+0.00	1	1	S	Avibacterium sp. 21-595	                  Avibacterium sp. 21-595
+0.02	10	10	S	Bibersteinia trehalosi	                Bibersteinia trehalosi
+0.00	1	1	S	Bisgaardia hudsonensis	                Bisgaardia hudsonensis
+0.01	6	6	S	Exercitatus varius	                Exercitatus varius
+0.00	1	1	S	Gallibacterium genomosp. 3	                Gallibacterium genomosp. 3
+2.95	1475	17	G	Glaesserella	              Glaesserella
+2.92	1458	1458	S	Glaesserella parasuis	                Glaesserella parasuis
+0.02	8	1	G	Haemophilus	              Haemophilus
+0.00	1	1	S	Haemophilus haemolyticus	                Haemophilus haemolyticus
+0.00	1	1	S	Haemophilus influenzae	                Haemophilus influenzae
+0.00	1	1	S	Haemophilus paracuniculus	                Haemophilus paracuniculus
+0.00	1	1	S	Haemophilus parahaemolyticus	                Haemophilus parahaemolyticus
+0.00	1	1	S	Haemophilus sputorum	                Haemophilus sputorum
+0.00	2	2	S	[Haemophilus] ducreyi	                [Haemophilus] ducreyi
+0.01	4	4	S	Histophilus somni	                Histophilus somni
+0.01	3	3	S	Mannheimia cairinae	                Mannheimia cairinae
+0.05	23	23	S	Mannheimia haemolytica	                Mannheimia haemolytica
+0.00	2	2	S	Mannheimia indoligenes	                Mannheimia indoligenes
+0.00	1	1	S	Mannheimia varigena	                Mannheimia varigena
+0.00	1	1	S	Muribacter muris	                Muribacter muris
+0.08	42	42	S	Pasteurella multocida	                Pasteurella multocida
+0.00	1	1	S	Rodentibacter sp. Ppn85	                  Rodentibacter sp. Ppn85
+0.00	2	1	G	Ursidibacter	              Ursidibacter
+0.00	1	1	S	Ursidibacter maritimus	                Ursidibacter maritimus
+0.00	1	1	S	Vespertiliibacter pulmonis	                Vespertiliibacter pulmonis
+0.01	5	1	G	Pseudomonas	              Pseudomonas
+0.01	3	3	S	Pseudomonas aeruginosa	                  Pseudomonas aeruginosa
+0.00	1	1	S	Pseudomonas sp. FW305-62	                  Pseudomonas sp. FW305-62
+0.00	1	1	S	Vibrio atypicus	                Vibrio atypicus
+0.00	1	1	F	Geobacteraceae	            Geobacteraceae
+0.00	1	1	S	uncultured bacterium	      uncultured bacterium

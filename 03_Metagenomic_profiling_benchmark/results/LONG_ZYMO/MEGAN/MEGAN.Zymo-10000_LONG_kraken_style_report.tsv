@@ -1,0 +1,129 @@
+3.88	359.00	8.00	K	172	Fungi
+93.22	8615.00	413.00	D	1	Bacteria
+7.92	732.00	9.00	D	171	Eukaryota
+62.01	5731.00	27.00	P	10	Firmicutes
+26.71	2469.00	23.00	P	112	Proteobacteria
+2.23	206.00	2.00	P	188	Basidiomycota
+1.53	141.00	1.00	P	173	Ascomycota
+0.01	1.00	1.00	C	204	Glomeromycetes
+61.67	5700.00	120.00	C	11	Bacilli
+26.46	2445.00	138.00	C	117	Gammaproteobacteria
+2.15	199.00	1.00	C	192	Tremellomycetes
+17.76	1641.00	18.00	O	119	Enterobacterales
+1.47	136.00	1.00	O	180	Saccharomycetales
+2.14	198.00	2.00	O	194	Tremellales
+33.28	3076.00	41.00	O	12	Bacillales
+27.09	2504.00	24.00	O	65	Lactobacillales
+1.46	135.00	3.00	F	181	Saccharomycetaceae
+7.14	660.00	1.00	F	159	Pseudomonadaceae
+2.12	196.00	11.00	F	195	Cryptococcaceae
+17.45	1613.00	127.00	F	75	Lactobacillaceae
+9.36	865.00	4.00	F	66	Enterococcaceae
+8.97	829.00	14.00	F	56	Staphylococcaceae
+17.54	1621.00	492.00	F	120	Enterobacteriaceae
+12.84	1187.00	15.00	F	13	Bacillaceae
+11.03	1019.00	1.00	F	41	Listeriaceae
+11.01	1018.00	348.00	G	42	Listeria
+2.00	185.00	79.00	G	196	Cryptococcus
+12.65	1169.00	1032.00	G	15	Bacillus
+1.43	132.00	51.00	G	182	Saccharomyces
+0.01	1.00	1.00	G	175	Aspergillus
+7.13	659.00	50.00	G	160	Pseudomonas
+0.17	16.00	4.00	G	145	Shigella
+6.73	622.00	40.00	G	141	Salmonella
+5.09	470.00	16.00	G	131	Escherichia
+0.03	3.00	1.00	G	122	Citrobacter
+0.01	1.00	1.00	G	110	Pectinatus
+0.02	2.00	1.00	G	96	Streptococcus
+16.04	1482.00	233.00	G	88	Limosilactobacillus
+0.01	1.00	1.00	G	82	Lactobacillus
+0.11	10.00	3.00	G	134	Klebsiella
+9.32	861.00	120.00	G	67	Enterococcus
+8.82	815.00	157.00	G	58	Staphylococcus
+0.01	1.00	1.00	S	174	Aureobasidium melanogenum
+0.02	2.00	2.00	S	20	Bacillus halotolerans
+0.01	1.00	1.00	S	21	Bacillus inaquosorum
+0.05	5.00	5.00	S	22	Bacillus intestinalis
+0.01	1.00	1.00	S	169	Stenotrophomonas maltophilia
+0.01	1.00	1.00	S	168	Stenotrophomonas acidaminiphila
+0.01	1.00	1.00	S	164	Pseudomonas syringae
+0.01	1.00	1.00	S	163	Pseudomonas savastanoi
+0.01	1.00	1.00	S	162	Pseudomonas fluorescens
+6.56	606.00	606.00	S	161	Pseudomonas aeruginosa
+7.01	648.00	648.00	S	49	Listeria monocytogenes
+0.02	2.00	2.00	S	23	Bacillus mojavensis
+0.03	3.00	3.00	S	155	Acinetobacter baumannii
+0.01	1.00	1.00	S	152	Serratia liquefaciens
+0.01	1.00	1.00	S	151	Arsenophonus endosymbiont of Bemisia tabaci
+0.10	9.00	9.00	S	150	Shigella sonnei
+0.01	1.00	1.00	S	148	Shigella flexneri
+0.01	1.00	1.00	S	147	Shigella dysenteriae
+0.04	4.00	4.00	S	48	Listeria marthii
+0.01	1.00	1.00	S	146	Shigella boydii
+0.01	1.00	1.00	S	68	Enterococcus canis
+0.01	1.00	1.00	S	18	Bacillus atrophaeus
+0.01	1.00	1.00	S	224	Corchorus olitorius
+0.03	3.00	3.00	S	222	Lupinus albus
+0.09	8.00	8.00	S	218	Trichuris trichiura
+0.01	1.00	1.00	S	216	Thelohanellus kitauei
+0.02	2.00	2.00	S	211	Rhizopus azygosporus
+0.01	1.00	1.00	S	207	Mortierella sp. GBA39
+0.01	1.00	1.00	S	4	Bifidobacterium longum
+1.11	103.00	103.00	S	201	Cryptococcus neoformans
+0.01	1.00	1.00	S	198	Cryptococcus depauperatus
+0.02	2.00	2.00	S	197	Cryptococcus cf. gattii
+0.01	1.00	1.00	S	43	Listeria booriae
+0.01	1.00	1.00	S	44	Listeria farberi
+0.01	1.00	1.00	S	14	Anoxybacillus sp. BCO1
+0.06	6.00	6.00	S	46	Listeria innocua
+0.05	5.00	5.00	S	191	Astraeus odoratus
+0.02	2.00	2.00	S	16	Bacillus amyloliquefaciens
+0.01	1.00	1.00	S	187	Saitoella complicata
+0.88	81.00	81.00	S	183	Saccharomyces cerevisiae
+0.01	1.00	1.00	S	47	Listeria ivanovii
+0.01	1.00	1.00	S	19	Bacillus cabrialesii
+0.01	1.00	1.00	S	177	Lachnellula suecica
+0.06	6.00	6.00	S	50	Listeria seeligeri
+6.26	579.00	579.00	S	143	Salmonella enterica
+0.01	1.00	1.00	S	111	Streptobacillus moniliformis
+0.01	1.00	1.00	S	60	Staphylococcus capitis
+0.01	1.00	1.00	S	108	Erysipelatoclostridium ramosum
+0.02	2.00	2.00	S	103	Clostridioides difficile
+0.01	1.00	1.00	S	98	Streptococcus pneumoniae
+0.01	1.00	1.00	S	61	Staphylococcus caprae
+0.03	3.00	3.00	S	92	Limosilactobacillus reuteri
+0.01	1.00	1.00	S	90	Limosilactobacillus gorillae
+0.51	47.00	47.00	S	28	Bacillus spizizenii
+13.47	1245.00	1245.00	S	89	Limosilactobacillus fermentum
+0.02	2.00	2.00	S	87	Ligilactobacillus salivarius
+0.01	1.00	1.00	S	86	Ligilactobacillus saerimneri
+0.01	1.00	1.00	S	36	Bacillus vallismortis
+0.76	70.00	70.00	S	34	Bacillus subtilis
+0.02	2.00	2.00	S	72	Enterococcus faecium
+7.96	736.00	736.00	S	71	Enterococcus faecalis
+0.01	1.00	1.00	S	70	Enterococcus durans
+0.01	1.00	1.00	S	69	Enterococcus casseliflavus
+0.02	2.00	2.00	S	37	Bacillus velezensis
+0.02	2.00	2.00	S	144	Salmonella sp. NCTC 11881
+0.01	1.00	1.00	S	114	Pararhodospirillum photometricum
+0.01	1.00	1.00	S	118	Pseudoalteromonas ruthenica
+0.01	1.00	1.00	S	142	Salmonella bongori
+0.03	3.00	3.00	S	51	Listeria welshimeri
+0.01	1.00	1.00	S	140	Pseudescherichia vulneris
+0.01	1.00	1.00	S	138	Leclercia adecarboxylata
+0.06	6.00	6.00	S	137	Klebsiella pneumoniae
+0.01	1.00	1.00	S	135	Klebsiella aerogenes
+0.02	2.00	2.00	S	39	Geobacillus sp. BCO2
+0.01	1.00	1.00	S	133	Franconibacter pulveris
+0.01	1.00	1.00	S	26	Bacillus sp. 5B6
+4.91	454.00	454.00	S	132	Escherichia coli
+0.01	1.00	1.00	S	129	Enterobacter cloacae complex sp. P13B
+0.01	1.00	1.00	S	128	Enterobacter cloacae
+0.01	1.00	1.00	S	125	Citrobacter koseri
+0.01	1.00	1.00	S	124	Citrobacter freundii
+7.10	656.00	656.00	S	59	Staphylococcus aureus
+0.01	1.00	1.00	S	121	Cedecea neteri
+0.01	1.00	1.00	S	230	Siphoviridae sp.
+0.02	2.00	2.00	S	25	Bacillus safensis
+0.02	2.00	2.00	S	130	Enterobacter hormaechei
+2.65	245.00	245.00	U	233	unclassified

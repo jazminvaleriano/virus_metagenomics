@@ -1,0 +1,215 @@
+95.06	17570.00	769.00	D	1	Bacteria
+8.13	1502.00	63.00	P	196	Proteobacteria
+62.36	11526.00	84.00	P	62	Firmicutes
+15.48	2861.00	1.00	P	25	Bacteroidetes
+0.58	107.00	1.00	C	185	Negativicutes
+60.24	11135.00	81.00	C	63	Bacilli
+7.54	1393.00	164.00	C	204	Gammaproteobacteria
+0.01	1.00	1.00	C	238	Magnoliopsida
+0.24	45.00	3.00	C	198	Betaproteobacteria
+4.66	862.00	23.00	C	3	Actinomycetia
+15.43	2853.00	99.00	O	27	Bacteroidales
+34.44	6366.00	233.00	O	64	Bacillales
+0.07	13.00	4.00	O	242	Caudovirales
+25.36	4688.00	42.00	O	101	Lactobacillales
+1.07	197.00	43.00	O	153	Eubacteriales
+6.59	1218.00	1.00	O	209	Pasteurellales
+0.26	48.00	1.00	O	8	Corynebacteriales
+0.04	7.00	3.00	O	205	Enterobacterales
+24.62	4551.00	217.00	F	110	Lactobacillaceae
+0.02	4.00	3.00	F	206	Enterobacteriaceae
+0.13	24.00	11.00	F	65	Bacillaceae
+0.03	6.00	2.00	F	174	Oscillospiraceae
+14.80	2736.00	4.00	F	37	Prevotellaceae
+0.23	42.00	4.00	F	200	Neisseriaceae
+0.27	49.00	2.00	F	102	Aerococcaceae
+6.58	1217.00	598.00	F	210	Pasteurellaceae
+0.76	141.00	42.00	F	159	Lachnospiraceae
+0.01	1.00	1.00	F	184	Erysipelotrichaceae
+0.08	15.00	12.00	F	251	Arteriviridae
+4.24	784.00	377.00	F	15	Propionibacteriaceae
+33.03	6105.00	750.00	F	79	Staphylococcaceae
+0.09	17.00	1.00	F	28	Bacteroidaceae
+0.01	1.00	1.00	F	178	Peptostreptococcaceae
+0.12	22.00	2.00	F	253	Coronaviridae
+0.01	2.00	2.00	G	176	Ruminococcus
+0.02	4.00	2.00	G	94	Salinicoccus
+0.25	46.00	37.00	G	104	Ruoffia
+0.01	2.00	2.00	G	162	Butyrivibrio
+0.10	19.00	10.00	G	97	Staphylococcus
+0.01	1.00	1.00	G	186	Acidaminococcus
+28.84	5331.00	3827.00	G	80	Jeotgalicoccus
+0.19	36.00	3.00	G	201	Neisseria
+0.04	7.00	4.00	G	67	Bacillus
+0.02	4.00	1.00	G	133	Ligilactobacillus
+0.56	104.00	65.00	G	189	Megasphaera
+0.05	9.00	1.00	G	168	Mediterraneibacter
+0.35	65.00	51.00	G	165	Dorea
+0.16	30.00	14.00	G	194	Fusobacterium
+0.21	38.00	2.00	G	211	Actinobacillus
+2.19	404.00	81.00	G	16	Cutibacterium
+2.21	408.00	162.00	G	137	Limosilactobacillus
+0.11	20.00	1.00	G	254	Betacoronavirus
+0.08	14.00	7.00	G	29	Bacteroides
+0.25	47.00	45.00	G	9	Corynebacterium
+0.04	7.00	2.00	G	107	Enterococcus
+0.21	39.00	21.00	G	147	Streptococcus
+0.01	2.00	1.00	G	35	Phocaeicola
+0.02	4.00	3.00	G	170	Roseburia
+0.01	1.00	1.00	G	111	Lacticaseibacillus
+21.18	3915.00	3080.00	G	112	Lactobacillus
+14.77	2731.00	894.00	G	39	Prevotella
+0.04	8.00	8.00	S	169	[Ruminococcus] torques
+0.02	3.00	3.00	S	158	Eubacterium sp. 41_20
+0.01	1.00	1.00	S	134	Ligilactobacillus aviarius
+0.01	2.00	2.00	S	136	Ligilactobacillus salivarius
+0.01	2.00	2.00	S	157	Eubacterium rectale CAG:36
+0.01	1.00	1.00	S	138	Limosilactobacillus antri
+1.16	215.00	215.00	S	140	Limosilactobacillus reuteri
+0.16	30.00	30.00	S	141	Limosilactobacillus vaginalis
+0.01	1.00	1.00	S	161	Blautia wexlerae
+0.01	2.00	2.00	S	149	Streptococcus pneumoniae
+0.01	1.00	1.00	S	142	Pediococcus pentosaceus
+0.07	13.00	13.00	S	166	Dorea formicigenerans
+0.01	1.00	1.00	S	155	Desulfoscipio gibsoniae
+0.01	1.00	1.00	S	146	Secundilactobacillus silagei
+0.01	1.00	1.00	S	164	Coprococcus sp. OM04-5BH
+0.01	1.00	1.00	S	151	Streptococcus thermophilus
+0.01	2.00	2.00	S	150	Streptococcus suis
+0.07	13.00	13.00	S	148	Streptococcus acidominimus
+0.01	1.00	1.00	S	167	uncultured Dorea sp.
+0.01	1.00	1.00	S	144	Secundilactobacillus malefermentans
+0.02	3.00	3.00	S	252	Porcine reproductive and respiratory syndrome virus
+0.09	17.00	17.00	S	173	[Eubacterium] rectale
+0.01	2.00	2.00	S	221	[Actinobacillus] rossii
+0.02	3.00	3.00	S	224	Vibrio parahaemolyticus
+0.01	1.00	1.00	S	225	bacterium F082
+0.01	1.00	1.00	S	226	bacterium P201
+0.06	12.00	12.00	S	227	uncultured bacterium
+0.01	1.00	1.00	S	228	Candidatus Methylacidithermus pantelleriae
+0.01	1.00	1.00	S	232	Mortierella sp. GBA39
+0.14	25.00	25.00	S	220	Pasteurella multocida
+0.01	1.00	1.00	S	233	Mucor ambiguus
+0.01	1.00	1.00	S	237	Enterobius vermicularis
+0.43	80.00	80.00	S	241	Suid betaherpesvirus 2
+0.03	5.00	5.00	S	244	Myoviridae sp.
+0.01	1.00	1.00	S	245	Podoviridae sp.
+0.02	3.00	3.00	S	246	Siphoviridae sp.
+0.01	1.00	1.00	S	247	Inoviridae sp.
+0.06	12.00	12.00	S	249	Influenza A virus
+0.01	1.00	1.00	S	235	Nymphon striatum
+0.01	1.00	1.00	S	171	Roseburia faecis
+0.01	2.00	2.00	S	219	Mannheimia haemolytica
+0.01	1.00	1.00	S	214	Glaesserella australis
+0.01	1.00	1.00	S	175	Faecalibacterium prausnitzii
+0.01	1.00	1.00	S	177	[Eubacterium] siraeum
+0.01	1.00	1.00	S	183	Catenibacterium mitsuokai
+0.01	1.00	1.00	S	187	Phascolarctobacterium faecium
+0.21	39.00	39.00	S	190	Megasphaera elsdenii
+0.01	1.00	1.00	S	191	Firmicutes bacterium CAG:137
+0.09	16.00	16.00	S	195	Fusobacterium necrophorum
+2.98	551.00	551.00	S	215	Glaesserella parasuis
+0.03	5.00	5.00	S	257	Ungulate protoparvovirus 1
+0.01	1.00	1.00	S	256	Microviridae sp.
+0.10	19.00	19.00	S	255	Betacoronavirus 1
+0.18	33.00	33.00	S	202	Neisseria shayeganii
+0.01	2.00	2.00	S	203	Neisseriaceae bacterium
+0.01	1.00	1.00	S	207	Escherichia coli
+0.01	1.00	1.00	S	208	Acinetobacter indicus
+0.19	36.00	36.00	S	212	Actinobacillus pleuropneumoniae
+0.01	1.00	1.00	S	197	Magnetospirillum gryphiswaldense
+0.01	2.00	2.00	S	132	Leuconostoc citreum
+0.19	35.00	35.00	S	118	Lactobacillus delbrueckii
+0.13	24.00	24.00	S	130	Lactobacillus ultunensis
+0.03	6.00	6.00	S	43	Prevotella copri CAG:164
+0.01	2.00	2.00	S	44	Prevotella herbatica
+0.16	29.00	29.00	S	45	Prevotella hominis
+0.01	2.00	2.00	S	46	Prevotella sp. AM23-5
+0.02	4.00	4.00	S	47	Prevotella sp. AM42-24
+0.01	1.00	1.00	S	48	Prevotella sp. BP1-148
+0.02	3.00	3.00	S	49	Prevotella sp. CAG:386
+0.01	1.00	1.00	S	50	Prevotella sp. CAG:604
+0.01	1.00	1.00	S	52	Prevotella sp. Marseille-P4119
+0.01	1.00	1.00	S	53	Prevotella stercorea CAG:629
+0.01	1.00	1.00	S	54	Parabacteroides distasonis
+0.03	6.00	6.00	S	57	Riemerella anatipestifer
+0.01	1.00	1.00	S	58	Bacteroidetes bacterium ADurb.BinA012
+0.02	3.00	3.00	S	59	Chlamydia trachomatis
+0.01	1.00	1.00	S	60	Cyanobacterium aponinum
+0.01	1.00	1.00	S	61	Microcystis aeruginosa
+0.01	2.00	2.00	S	66	Alkalihalophilus pseudofirmus
+0.01	1.00	1.00	S	68	Bacillus mycoides
+0.01	1.00	1.00	S	69	Bacillus sp. 349Y
+9.66	1785.00	1785.00	S	42	Prevotella copri
+0.01	1.00	1.00	S	41	Prevotella buccae
+0.01	1.00	1.00	S	40	Prevotella bryantii
+0.01	1.00	1.00	S	38	Hallella sp. CLA-AA-H145
+0.01	2.00	2.00	S	5	Bifidobacterium animalis
+0.01	2.00	2.00	S	6	Bifidobacterium longum
+0.01	1.00	1.00	S	7	uncultured Bifidobacterium sp.
+0.01	1.00	1.00	S	10	Corynebacterium casei
+0.01	1.00	1.00	S	11	Corynebacterium stationis
+0.01	1.00	1.00	S	12	Microbacterium liquefaciens
+0.01	1.00	1.00	S	13	Microbacterium sp. SUBG005
+1.73	320.00	320.00	S	17	Cutibacterium acnes
+0.01	1.00	1.00	S	18	Cutibacterium granulosum
+0.01	1.00	1.00	S	70	Bacillus subtilis
+0.01	1.00	1.00	S	19	Cutibacterium modestum
+0.01	1.00	1.00	S	22	Propionibacterium sp. 4572_24
+0.01	1.00	1.00	S	23	Propionibacterium sp. 5_U_42AFAA
+0.01	1.00	1.00	S	24	Propionibacterium sp. KPL2009
+0.02	3.00	3.00	S	30	Bacteroides fragilis
+0.01	1.00	1.00	S	31	Bacteroides ovatus
+0.01	1.00	1.00	S	32	Bacteroides stercoris
+0.01	1.00	1.00	S	33	Bacteroides thetaiotaomicron
+0.01	1.00	1.00	S	34	Bacteroides uniformis
+0.01	1.00	1.00	S	36	Phocaeicola vulgatus
+0.01	1.00	1.00	S	20	Cutibacterium namnetense
+0.01	1.00	1.00	S	131	Latilactobacillus sakei
+0.01	1.00	1.00	S	71	Filobacillus milosensis
+0.01	1.00	1.00	S	73	Gracilibacillus boraciitolerans
+0.04	8.00	8.00	S	106	Ruoffia tabacinasalis
+0.01	2.00	2.00	S	108	Enterococcus faecalis
+0.02	3.00	3.00	S	109	Enterococcus faecium
+0.02	4.00	4.00	S	113	Lactobacillus acidophilus
+2.91	538.00	538.00	S	114	Lactobacillus amylovorus
+0.02	4.00	4.00	S	115	Lactobacillus amylovorus CAG:719
+0.38	70.00	70.00	S	117	Lactobacillus crispatus
+0.01	1.00	1.00	S	258	Cloning vector pBSURNAP
+0.19	35.00	35.00	S	119	Lactobacillus gallinarum
+0.34	63.00	63.00	S	120	Lactobacillus helveticus
+0.02	4.00	4.00	S	121	Lactobacillus iners
+0.02	3.00	3.00	S	122	Lactobacillus intestinalis
+0.10	18.00	18.00	S	123	Lactobacillus johnsonii
+0.06	11.00	11.00	S	124	Lactobacillus kitasatonis
+0.01	1.00	1.00	S	125	Lactobacillus nasalidis
+0.01	1.00	1.00	S	126	Lactobacillus sp. Marseille-P3519
+0.12	22.00	22.00	S	127	Lactobacillus sp. OTU4228
+0.01	1.00	1.00	S	128	Lactobacillus sp. UMNPBX16
+0.01	1.00	1.00	S	129	Lactobacillus taiwanensis
+0.01	1.00	1.00	S	105	Ruoffia halotolerans
+0.01	1.00	1.00	S	103	Aerococcus urinaeequi
+0.01	1.00	1.00	S	100	Staphylococcus cohnii
+0.04	7.00	7.00	S	99	Staphylococcus aureus
+0.01	1.00	1.00	S	74	Weizmannia coagulans
+0.01	1.00	1.00	S	76	Paenibacillus ginsengihumi
+0.01	2.00	2.00	S	77	Paenibacillus sp. P22
+0.01	1.00	1.00	S	78	Pullulanibacillus pueri
+0.12	23.00	23.00	S	81	Jeotgalicoccus aerolatus
+0.03	6.00	6.00	S	82	Jeotgalicoccus coquinae
+0.02	3.00	3.00	S	83	Jeotgalicoccus halotolerans
+0.06	11.00	11.00	S	84	Jeotgalicoccus marinus
+0.63	116.00	116.00	S	85	Jeotgalicoccus meleagridis
+0.01	1.00	1.00	S	72	Gracilibacillus alcaliphilus
+0.03	5.00	5.00	S	86	Jeotgalicoccus nanhaiensis
+0.03	5.00	5.00	S	88	Jeotgalicoccus saudimassiliensis
+0.02	3.00	3.00	S	89	Jeotgalicoccus schoeneichii
+5.24	968.00	968.00	S	90	Jeotgalicoccus sp. ATCC 8456
+1.94	358.00	358.00	S	91	Jeotgalicoccus sp. S0W5
+0.02	3.00	3.00	S	92	Jeotgalicoccus sp. WY2
+0.01	1.00	1.00	S	93	Nosocomiicoccus ampullae
+0.01	1.00	1.00	S	95	Salinicoccus albus
+0.01	1.00	1.00	S	96	Salinicoccus sp. YB14-2
+0.01	1.00	1.00	S	98	Staphylococcus arlettae
+0.02	3.00	3.00	S	87	Jeotgalicoccus psychrophilus
+4.11	759.00	759.00	U	259	unclassified

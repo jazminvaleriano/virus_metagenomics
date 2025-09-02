@@ -1,0 +1,190 @@
+3.69	684.00	13.00	K	172	Fungi
+93.27	17281.00	802.00	D	1	Bacteria
+7.54	1397.00	18.00	D	171	Eukaryota
+2.12	392.00	6.00	P	188	Basidiomycota
+1.47	272.00	2.00	P	173	Ascomycota
+62.17	11519.00	49.00	P	10	Firmicutes
+26.73	4953.00	48.00	P	112	Proteobacteria
+61.85	11459.00	243.00	C	11	Bacilli
+0.01	2.00	1.00	C	204	Glomeromycetes
+2.01	373.00	3.00	C	192	Tremellomycetes
+26.46	4903.00	253.00	C	117	Gammaproteobacteria
+26.93	4990.00	44.00	O	65	Lactobacillales
+1.99	369.00	5.00	O	194	Tremellales
+1.40	260.00	1.00	O	180	Saccharomycetales
+33.61	6226.00	98.00	O	12	Bacillales
+18.12	3358.00	41.00	O	119	Enterobacterales
+17.89	3315.00	1023.00	F	120	Enterobacteriaceae
+9.11	1687.00	19.00	F	56	Staphylococcaceae
+1.96	364.00	17.00	F	195	Cryptococcaceae
+12.96	2401.00	33.00	F	13	Bacillaceae
+10.99	2037.00	3.00	F	41	Listeriaceae
+9.15	1696.00	9.00	F	66	Enterococcaceae
+6.91	1280.00	4.00	F	159	Pseudomonadaceae
+1.40	259.00	5.00	F	181	Saccharomycetaceae
+17.51	3244.00	280.00	F	75	Lactobacillaceae
+9.00	1667.00	327.00	G	58	Staphylococcus
+0.01	1.00	1.00	G	175	Aspergillus
+5.03	931.00	25.00	G	131	Escherichia
+6.89	1276.00	113.00	G	160	Pseudomonas
+0.02	3.00	1.00	G	82	Lactobacillus
+15.91	2948.00	474.00	G	88	Limosilactobacillus
+0.01	1.00	1.00	G	156	Psychrobacter
+0.03	6.00	1.00	G	96	Streptococcus
+0.01	1.00	1.00	G	101	Pelotomaculum
+0.12	23.00	7.00	G	145	Shigella
+7.00	1297.00	87.00	G	141	Salmonella
+0.01	1.00	1.00	G	110	Pectinatus
+0.01	1.00	1.00	G	139	Mangrovibacter
+0.05	9.00	2.00	G	122	Citrobacter
+0.12	22.00	4.00	G	134	Klebsiella
+0.01	1.00	1.00	G	76	Apilactobacillus
+1.37	254.00	99.00	G	182	Saccharomyces
+9.11	1687.00	246.00	G	67	Enterococcus
+0.01	1.00	1.00	G	202	Kwoniella
+12.75	2362.00	2086.00	G	15	Bacillus
+10.98	2034.00	668.00	G	42	Listeria
+1.87	346.00	163.00	G	196	Cryptococcus
+0.01	2.00	2.00	S	186	Beauveria bassiana
+0.03	6.00	6.00	S	144	Salmonella sp. NCTC 11881
+0.03	6.00	6.00	S	222	Lupinus albus
+0.06	12.00	12.00	S	218	Trichuris trichiura
+0.01	1.00	1.00	S	146	Shigella boydii
+0.01	1.00	1.00	S	148	Shigella flexneri
+6.49	1203.00	1203.00	S	143	Salmonella enterica
+0.01	1.00	1.00	S	216	Thelohanellus kitauei
+0.01	1.00	1.00	S	149	Shigella genomosp. SF-2015
+0.06	11.00	11.00	S	150	Shigella sonnei
+0.01	1.00	1.00	S	151	Arsenophonus endosymbiont of Bemisia tabaci
+0.01	2.00	2.00	S	147	Shigella dysenteriae
+0.01	1.00	1.00	S	142	Salmonella bongori
+0.01	1.00	1.00	S	224	Corchorus olitorius
+0.01	1.00	1.00	S	152	Serratia liquefaciens
+0.01	1.00	1.00	S	140	Pseudescherichia vulneris
+0.01	1.00	1.00	S	225	Digitaria exilis
+0.01	1.00	1.00	S	138	Leclercia adecarboxylata
+0.09	16.00	16.00	S	137	Klebsiella pneumoniae
+0.01	1.00	1.00	S	226	Solanum tuberosum
+0.01	1.00	1.00	S	136	Klebsiella michiganensis
+0.01	1.00	1.00	S	228	Myoviridae sp.
+0.01	2.00	2.00	S	230	Siphoviridae sp.
+0.01	1.00	1.00	S	135	Klebsiella aerogenes
+0.01	1.00	1.00	S	231	Caudovirales sp.
+0.01	1.00	1.00	S	133	Franconibacter pulveris
+4.89	906.00	906.00	S	132	Escherichia coli
+0.01	1.00	1.00	S	223	Medicago truncatula
+0.04	7.00	7.00	S	155	Acinetobacter baumannii
+0.02	3.00	3.00	S	211	Rhizopus azygosporus
+0.01	2.00	2.00	S	187	Saitoella complicata
+0.84	155.00	155.00	S	183	Saccharomyces cerevisiae
+0.01	1.00	1.00	S	5	Mycobacteroides abscessus
+0.07	13.00	13.00	S	191	Astraeus odoratus
+0.01	1.00	1.00	S	193	Filobasidium floriforme
+0.01	1.00	1.00	S	179	Sphaerosporella brunnea
+0.01	1.00	1.00	S	178	Sclerotinia sclerotiorum
+0.01	1.00	1.00	S	177	Lachnellula suecica
+0.01	1.00	1.00	S	176	Lachnellula arida
+0.02	3.00	3.00	S	197	Cryptococcus cf. gattii
+0.01	2.00	2.00	S	198	Cryptococcus depauperatus
+0.01	1.00	1.00	S	199	Cryptococcus floricola
+0.01	2.00	2.00	S	200	Cryptococcus gattii VGI
+0.01	1.00	1.00	S	174	Aureobasidium melanogenum
+0.01	1.00	1.00	S	215	Spodoptera exigua
+0.01	1.00	1.00	S	6	Micrococcus sp. KRD026
+0.01	1.00	1.00	S	8	Chloroflexi bacterium
+0.01	1.00	1.00	S	170	uncultured bacterium
+0.01	1.00	1.00	S	169	Stenotrophomonas maltophilia
+0.94	175.00	175.00	S	201	Cryptococcus neoformans
+0.01	1.00	1.00	S	168	Stenotrophomonas acidaminiphila
+0.01	1.00	1.00	S	164	Pseudomonas syringae
+0.01	1.00	1.00	S	163	Pseudomonas savastanoi
+0.01	1.00	1.00	S	162	Pseudomonas fluorescens
+0.01	1.00	1.00	S	205	Rhizophagus sp. MUCL 43196
+6.26	1160.00	1160.00	S	161	Pseudomonas aeruginosa
+0.01	1.00	1.00	S	207	Mortierella sp. GBA39
+0.01	1.00	1.00	S	208	Podila verticillata
+0.01	1.00	1.00	S	157	Haemophilus influenzae
+0.01	1.00	1.00	S	7	Propionibacterium freudenreichii
+0.01	2.00	2.00	S	130	Enterobacter hormaechei
+0.01	1.00	1.00	S	118	Pseudoalteromonas ruthenica
+0.01	1.00	1.00	S	128	Enterobacter cloacae
+0.02	4.00	4.00	S	39	Geobacillus sp. BCO2
+0.01	1.00	1.00	S	40	Peribacillus sp. Bi96
+0.01	1.00	1.00	S	43	Listeria booriae
+0.01	1.00	1.00	S	44	Listeria farberi
+0.01	1.00	1.00	S	45	Listeria grayi
+0.06	12.00	12.00	S	46	Listeria innocua
+0.02	4.00	4.00	S	47	Listeria ivanovii
+0.02	4.00	4.00	S	37	Bacillus velezensis
+0.03	5.00	5.00	S	48	Listeria marthii
+0.05	9.00	9.00	S	50	Listeria seeligeri
+0.03	5.00	5.00	S	51	Listeria welshimeri
+0.01	2.00	2.00	S	54	Paenibacillus sp. P1XP2
+0.01	1.00	1.00	S	55	Pullulanibacillus pueri
+0.01	1.00	1.00	S	57	Mammaliicoccus sciuri
+7.21	1335.00	1335.00	S	59	Staphylococcus aureus
+0.01	1.00	1.00	S	60	Staphylococcus capitis
+7.17	1328.00	1328.00	S	49	Listeria monocytogenes
+0.02	3.00	3.00	S	36	Bacillus vallismortis
+0.01	1.00	1.00	S	35	Bacillus tequilensis
+0.68	126.00	126.00	S	34	Bacillus subtilis
+0.01	1.00	1.00	S	14	Anoxybacillus sp. BCO1
+0.01	2.00	2.00	S	16	Bacillus amyloliquefaciens
+0.01	2.00	2.00	S	17	Bacillus anthracis
+0.02	3.00	3.00	S	18	Bacillus atrophaeus
+0.01	2.00	2.00	S	19	Bacillus cabrialesii
+0.02	3.00	3.00	S	20	Bacillus halotolerans
+0.01	1.00	1.00	S	21	Bacillus inaquosorum
+0.09	17.00	17.00	S	22	Bacillus intestinalis
+0.02	3.00	3.00	S	23	Bacillus mojavensis
+0.01	1.00	1.00	S	24	Bacillus paralicheniformis
+0.01	2.00	2.00	S	25	Bacillus safensis
+0.01	1.00	1.00	S	26	Bacillus sp. 5B6
+0.01	1.00	1.00	S	27	Bacillus sp. BSC154
+0.55	101.00	101.00	S	28	Bacillus spizizenii
+0.01	1.00	1.00	S	29	Bacillus sp. JS
+0.01	1.00	1.00	S	31	Bacillus sp. MB366
+0.01	1.00	1.00	S	32	Bacillus sp. WMMC1349
+0.01	2.00	2.00	S	61	Staphylococcus caprae
+0.01	1.00	1.00	S	129	Enterobacter cloacae complex sp. P13B
+0.01	1.00	1.00	S	63	Staphylococcus sp.
+0.01	1.00	1.00	S	68	Enterococcus canis
+0.01	1.00	1.00	S	99	Streptococcus pyogenes
+0.03	5.00	5.00	S	103	Clostridioides difficile
+0.01	1.00	1.00	S	104	Peptacetobacter hiranonis
+0.01	1.00	1.00	S	106	Sharpea porci
+0.01	1.00	1.00	S	108	Erysipelatoclostridium ramosum
+0.01	1.00	1.00	S	109	Longicatena sp. 210702-DFI.1.196
+0.01	1.00	1.00	S	111	Streptobacillus moniliformis
+0.02	3.00	3.00	S	98	Streptococcus pneumoniae
+0.01	1.00	1.00	S	232	Phage Gifsy-2
+0.01	1.00	1.00	S	114	Pararhodospirillum photometricum
+0.01	1.00	1.00	S	9	Truepera radiovictrix
+0.01	1.00	1.00	S	121	Cedecea neteri
+0.01	2.00	2.00	S	123	Citrobacter amalonaticus
+0.01	2.00	2.00	S	124	Citrobacter freundii
+0.02	3.00	3.00	S	125	Citrobacter koseri
+0.01	1.00	1.00	S	127	Enterobacter cancerogenus
+0.01	1.00	1.00	S	113	Microvirga antarctica
+0.01	1.00	1.00	S	97	Streptococcus agalactiae
+0.01	1.00	1.00	S	94	Pediococcus pentosaceus
+0.01	1.00	1.00	S	93	Loigolactobacillus backii
+0.01	1.00	1.00	S	69	Enterococcus casseliflavus
+7.72	1431.00	1431.00	S	71	Enterococcus faecalis
+0.03	5.00	5.00	S	72	Enterococcus faecium
+0.01	2.00	2.00	S	73	Enterococcus hirae
+0.01	1.00	1.00	S	74	Enterococcus sp. HSIEG1
+0.01	2.00	2.00	S	77	Furfurilactobacillus rossiae
+0.01	1.00	1.00	S	78	Holzapfelia floricola
+0.01	1.00	1.00	S	80	Lacticaseibacillus rhamnosus
+0.01	2.00	2.00	S	81	Lactiplantibacillus plantarum
+0.01	2.00	2.00	S	83	Lactobacillus delbrueckii
+0.01	1.00	1.00	S	84	Lentilactobacillus kosonis
+0.01	1.00	1.00	S	86	Ligilactobacillus saerimneri
+0.01	2.00	2.00	S	87	Ligilactobacillus salivarius
+13.32	2468.00	2468.00	S	89	Limosilactobacillus fermentum
+0.01	1.00	1.00	S	90	Limosilactobacillus gorillae
+0.01	1.00	1.00	S	91	Limosilactobacillus panis
+0.02	4.00	4.00	S	92	Limosilactobacillus reuteri
+0.01	1.00	1.00	S	64	Staphylococcus sp. EG-SA-2
+2.78	515.00	515.00	U	233	unclassified

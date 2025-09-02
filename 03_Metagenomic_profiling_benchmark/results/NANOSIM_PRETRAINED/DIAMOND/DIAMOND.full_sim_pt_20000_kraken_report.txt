@@ -1,0 +1,178 @@
+8.16	1632	1632	U	0	unclassified
+0.41	83	83	S1	1608255	                     Suid betaherpesvirus 2
+0.04	7	1	O	2788787	           unclassified Caudoviricetes
+0.03	6	6	F	2832643	             Caudoviricetes sp.
+0.01	1	1	S1	3052720	                   Protoparvovirus ungulate1
+0.10	19	19	S1	2499674	                   Betaarterivirus
+0.07	15	14	G	11118	               Coronaviridae
+0.01	1	1	S1	694003	                         Betacoronavirus 1
+91.22	18243	104	R	131567	cellular organisms
+90.62	18124	1828	R1	2	   Bacteria
+62.80	12560	98	D	1783272	     Bacillati
+3.04	608	39	P	201174	       Actinomycetota
+2.85	569	409	C	1760	         Actinomycetes
+0.27	54	51	G	1716	               Corynebacterium
+0.01	1	1	S1	1224162	                   Corynebacterium marinum DSM 44953
+0.01	2	2	S	1705	                 Corynebacterium stationis
+0.53	106	43	F	31957	             Propionibacteriaceae
+0.30	61	2	G	1912216	               Cutibacterium
+0.28	57	22	S	1747	                 Cutibacterium acnes
+0.01	1	1	S1	1031709	                   Cutibacterium acnes 6609
+0.01	1	1	S1	765115	                   Cutibacterium acnes HL002PA1
+0.01	1	1	S1	765099	                   Cutibacterium acnes HL005PA4
+0.01	1	1	S1	1226748	                   Cutibacterium acnes HL042PA3
+0.01	1	1	S1	765101	                   Cutibacterium acnes HL050PA2
+0.01	1	1	S1	765113	                   Cutibacterium acnes HL063PA1
+0.01	1	1	S1	765121	                   Cutibacterium acnes HL082PA2
+0.01	2	2	S1	679194	                   Cutibacterium acnes J139
+0.05	10	10	S1	1302241	                   Cutibacterium acnes JCM 18909
+0.01	2	2	S1	1302242	                   Cutibacterium acnes JCM 18916
+0.01	1	1	S1	1302243	                   Cutibacterium acnes JCM 18918
+0.03	6	6	S1	1302244	                   Cutibacterium acnes JCM 18920
+0.01	1	1	S1	267747	                   Cutibacterium acnes KPA171202
+0.02	4	4	S1	1136877	                   Cutibacterium acnes PRP-38
+0.01	1	1	S1	686659	                   Cutibacterium acnes SK187
+0.01	1	1	S1	1091045	                     Cutibacterium acnes subsp. defendens ATCC 11828
+0.01	1	1	S	2559073	                 Cutibacterium modestum
+0.01	1	1	S1	1051006	                   [Propionibacterium] namnetense SK182B-JCVI
+0.01	1	1	S1	936047	                   Propionibacterium sp. 409-HC1
+0.01	1	1	S1	1971622	                   Propionibacterium sp. 4572_24
+59.27	11853	181	P	1239	       Bacillota
+57.27	11455	100	C	91061	         Bacilli
+38.87	7773	561	O	1385	           Bacillales
+0.01	1	1	G	29330	               Alicyclobacillus
+0.01	1	1	S1	1872573	                   Anoxybacillus sp.
+0.01	3	3	S1	1547578	                   Geobacillus sp. BCO2
+0.01	3	1	G	1386	               Bacillus
+0.01	1	1	S1	1392	                   Bacillus anthracis
+0.01	1	1	S1	1423	                   Bacillus subtilis
+0.01	1	1	S1	272775	                   Oceanobacillus oncorhynchi subsp. incaldanensis
+0.01	1	1	S	45462	                 Brevibacillus borstelensis
+0.01	2	2	S1	1472719	                   Paenibacillus sp. P1XP2
+0.01	1	1	S1	483908	                   Paenibacillus sp. P22
+0.01	2	2	S	576118	                 Lacicoccus qingdaonensis
+0.01	1	1	S	110845	                 Phocicoccus pinnipedialis
+35.98	7196	358	F	90964	             Staphylococcaceae
+34.15	6830	6264	G	227979	               Jeotgalicoccus
+0.01	1	1	S	709510	                 Jeotgalicoccus aerolatus
+0.01	1	1	S	709509	                 Jeotgalicoccus coquinae
+0.06	12	12	S	516700	                 Jeotgalicoccus marinus
+0.03	5	5	S	2759181	                 Jeotgalicoccus meleagridis
+0.01	3	3	S	568603	                 Jeotgalicoccus nanhaiensis
+2.72	544	87	S	2630462	                 unclassified Jeotgalicoccus
+2.25	449	449	S1	946435	                   Jeotgalicoccus sp. ATCC 8456
+0.04	8	8	S1	2527874	                   Jeotgalicoccus sp. S0W5
+0.01	1	1	G	2803850	               Mammaliicoccus
+0.01	1	1	S	558170	                 Salinicoccus carnicancri
+0.01	1	1	S	407035	                 Salinicoccus halodurans
+0.02	4	4	S	1280	                 Staphylococcus aureus
+0.01	1	1	S1	1403935	                   Staphylococcus sp. DORA_6_22
+17.91	3582	80	O	186826	           Lactobacillales
+0.19	38	3	F	186827	             Aerococcaceae
+0.17	35	29	G	2862144	               Ruoffia
+0.01	1	1	S	2748684	                 Ruoffia halotolerans
+0.03	5	5	S	87458	                 Ruoffia tabacinasalis
+0.01	1	1	S	1352	                 Enterococcus faecium
+17.11	3421	390	F	33958	             Lactobacillaceae
+0.01	1	1	G	2759736	               Lacticaseibacillus
+0.01	1	1	S1	1350466	                   Lactiplantibacillus plantarum WJL
+14.74	2949	2642	G	1578	               Lactobacillus
+0.01	1	1	S	83683	                 Lactobacillus amylolyticus
+1.37	274	263	S	1604	                 Lactobacillus amylovorus
+0.01	1	1	S1	1263084	                   Lactobacillus amylovorus CAG:719
+0.01	3	3	S1	1423723	                   Lactobacillus amylovorus DSM 20531
+0.01	2	2	S1	3378537	                   Lactobacillus amylovorus subsp. amylovorus
+0.03	5	3	S1	3378536	                   Lactobacillus amylovorus subsp. animalium
+0.01	2	2	S1	695563	                     Lactobacillus amylovorus subsp. animalium DSM 16698
+0.04	9	6	S	47770	                 Lactobacillus crispatus
+0.01	1	1	S1	575597	                   Lactobacillus crispatus MV-3A-US
+0.01	2	2	S1	748671	                   Lactobacillus crispatus ST1
+0.01	1	1	S1	559301	                   Lactobacillus gasseri MV-22
+0.04	7	4	S	1587	                 Lactobacillus helveticus
+0.01	3	3	S1	947827	                   Lactobacillus helveticus MTCC 5463
+0.01	2	2	S	33959	                 Lactobacillus johnsonii
+0.01	1	1	S	267818	                 Lactobacillus kefiranofaciens
+0.04	9	8	S	237446	                 Lactobacillus kitasatonis
+0.01	1	1	S1	1423767	                   Lactobacillus kitasatonis DSM 16761 = JCM 1039
+0.01	1	1	S	227945	                 Lactobacillus ultunensis
+0.01	2	1	S	2620435	                 unclassified Lactobacillus
+0.01	1	1	S1	2796363	                   Lactobacillus sp. A27
+0.01	1	1	S	1580	                 Levilactobacillus brevis
+0.40	79	60	G	2742598	               Limosilactobacillus
+0.01	1	1	S	181675	                 Limosilactobacillus coleohominis
+0.09	17	17	S	1598	                 Limosilactobacillus reuteri
+0.01	1	1	S	1633	                 Limosilactobacillus vaginalis
+0.01	1	1	S1	1360	                   Lactococcus lactis subsp. lactis
+0.20	41	23	G	1301	               Streptococcus
+0.08	16	16	S	1326	                 Streptococcus acidominimus
+0.01	1	1	S	114652	                 Streptococcus orisratti
+0.01	1	1	S	1313	                 Streptococcus pneumoniae
+0.70	140	52	C	186801	         Clostridia
+0.01	1	1	S	53422	                 Thermobrachium celere
+0.01	1	1	S	182264	                 Sporotomaculum syntrophicum
+0.01	1	1	S1	165185	                   uncultured Eubacterium sp.
+0.08	16	3	F	216572	             Oscillospiraceae
+0.06	12	12	S1	657319	                   [Eubacterium] siraeum 70/3
+0.01	1	1	S1	1221379	                   uncultured Pseudoflavonifractor sp.
+0.32	64	14	F	186803	             Lachnospiraceae
+0.01	1	1	G	1766253	               Agathobacter
+0.21	43	41	G	189330	               Dorea
+0.01	2	1	S	39486	                 Dorea formicigenerans
+0.01	1	1	S1	411461	                   Dorea formicigenerans ATCC 27755
+0.02	4	4	S	45851	                 Eshraghiella crossota
+0.01	2	2	S1	1261635	                   Roseburia sp. 831b
+0.01	3	3	S	1496	                 Clostridioides difficile
+0.01	2	2	S	2652282	                 Peptostreptococcus porci
+0.01	2	1	F	2810280	             Coprobacillaceae
+0.01	1	1	G	135858	               Catenibacterium
+0.01	1	1	G	191303	               Turicibacter
+0.37	74	2	C	909932	         Negativicutes
+0.36	72	68	G	906	               Megasphaera
+0.02	4	4	S	907	                 Megasphaera elsdenii
+0.01	1	1	G	33926	               Candidatus Phytoplasma
+0.17	34	17	G	848	               Fusobacterium
+0.01	1	1	S	849	                 Fusobacterium gonidiaformans
+0.08	16	16	S	859	                 Fusobacterium necrophorum
+18.51	3702	30	D	3379134	     Pseudomonadati
+11.65	2330	5	P	1783270	       FCB group
+11.62	2325	8	O	976	           Bacteroidota
+11.58	2316	1	F	200643	             Bacteroidia
+11.57	2315	226	G	171549	               Bacteroidales
+0.01	1	1	S1	702444	                       Bacteroides xylanisolvens SD CC 2a
+0.01	2	2	S1	2033407	                       Barnesiella sp.
+10.43	2086	1108	S	171552	                 Prevotellaceae
+0.01	2	2	S1	363265	                     Leyella stercorea
+0.05	10	5	S1	2638335	                     unclassified Prevotella
+0.02	4	4	S1	59823	                       Prevotella sp.
+0.01	1	1	S1	1262922	                       Prevotella sp. CAG:1320
+4.83	966	517	S1	2974251	                   Segatella
+2.16	432	427	S1	165179	                     Segatella copri
+0.01	1	1	S1	1263102	                       Segatella copri CAG:164
+0.02	4	4	S1	537011	                       Segatella copri DSM 18205
+0.09	17	17	S1	2518605	                     Segatella hominis
+0.01	1	1	S1	2972951	                     Parapedobacter tibetensis
+0.01	1	1	S1	813	                     Chlamydia trachomatis
+0.01	1	1	S1	2744239	                   Candidatus Methylacidithermus pantelleriae
+6.70	1340	16	P	1224	       Pseudomonadota
+0.26	52	1	C	28216	         Betaproteobacteria
+0.26	51	1	F	481	             Neisseriaceae
+0.25	50	3	G	482	               Neisseria
+0.23	47	47	S	607712	                 Neisseria shayeganii
+6.36	1272	12	C	1236	         Gammaproteobacteria
+0.01	1	1	S1	405955	                   Escherichia coli APEC O1
+0.01	1	1	S	623	                 Shigella flexneri
+0.01	1	1	G	583	               Proteus
+6.28	1256	1	O	135625	           Pasteurellales
+6.28	1255	1017	F	712	             Pasteurellaceae
+0.01	3	3	S	51049	                 Actinobacillus indolicus
+1.17	234	10	G	2094023	               Glaesserella
+1.12	224	221	S	738	                 Glaesserella parasuis
+0.01	2	2	S1	456298	                   Glaesserella parasuis 29755
+0.01	1	1	S1	1275966	                   Glaesserella parasuis SW114
+0.01	1	1	S	731	                 Histophilus somni
+0.01	1	1	S1	670	                   Vibrio parahaemolyticus
+0.06	12	1	D	33154	     Opisthokonta
+0.01	2	2	S1	91626	                         Mucor ambiguus
+0.03	6	6	S1	36087	                             Trichuris trichiura
+0.01	3	3	S1	435267	                                         Ilyocryptus agilis
+0.01	3	3	S1	3870	                                                 Lupinus albus

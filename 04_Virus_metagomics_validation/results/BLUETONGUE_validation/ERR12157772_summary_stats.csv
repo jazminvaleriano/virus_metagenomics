@@ -1,0 +1,3 @@
+FalsePositive,MappedReads_count,MappedReads_sum,MappedReads_mean,R_mean,Co_mean,Ce_mean
+False,14,54807,3914.786,0.985,0.985,1.0
+True,15,44,2.933,0.149,0.005,0.054

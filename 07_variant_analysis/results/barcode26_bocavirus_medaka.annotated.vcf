@@ -1,0 +1,39 @@
+##fileformat=VCFv4.1
+##medaka_version=2.0.1
+##contig=<ID=MW051666.1>
+##FILTER=<ID=PASS,Description="All filters passed">
+##medaka_version=2.0.1
+##contig=<ID=MW051666.1,length=4777>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Medaka genotype.">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Medaka genotype quality score">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Depth of reads at position, calculated from read pileup, capped to ~8000.">
+##INFO=<ID=DPS,Number=2,Type=Integer,Description="Depth of reads at position by strand (fwd, rev), calculated from read pileup, capped to ~8000 total.">
+##INFO=<ID=DPSP,Number=1,Type=Integer,Description="Depth of reads spanning pos +-25. This is not capped as in the case of DP and DPS.">
+##INFO=<ID=SR,Number=.,Type=Integer,Description="Depth of spanning reads by strand which best align to each allele (ref fwd, ref rev, alt1 fwd, alt1 rev, etc.). This is not capped as in the case of DP and DPS.">
+##INFO=<ID=AR,Number=2,Type=Integer,Description="Depth of ambiguous spanning reads by strand which align equally well to all alleles (fwd, rev). This is not capped as in the case of DP and DPS.">
+##INFO=<ID=SC,Number=.,Type=Integer,Description="Total alignment score to each allele of spanning reads by strand (ref fwd, ref rev, alt1 fwd, alt1 rev, etc.) aligned with parasail: match 5, mismatch -4, open 5, extend 3">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+MW051666.1	3601	.	A	AT	28.451	PASS	DP=1;DPS=0,1	GT:GQ	1:28
+MW051666.1	3641	.	CT	GG	10.241	PASS	DP=1;DPS=0,1	GT:GQ	1:10
+MW051666.1	3646	.	CCC	AT	7.026	PASS	DP=1;DPS=0,1	GT:GQ	1:7
+MW051666.1	3746	.	CT	TG	54.5	PASS	DP=1;DPS=0,1	GT:GQ	1:54
+MW051666.1	3829	.	TG	CT	47.312	PASS	DP=1;DPS=0,1	GT:GQ	1:47
+MW051666.1	3857	.	GA	G	2.273	PASS	DP=1;DPS=0,1	GT:GQ	1:2
+MW051666.1	3897	.	T	TGAA	95.333	PASS	DP=1;DPS=0,1	GT:GQ	1:95
+MW051666.1	3899	.	A	AT	29.359	PASS	DP=1;DPS=0,1	GT:GQ	1:29
+MW051666.1	3907	.	A	C	29.411	PASS	DP=1;DPS=0,1	GT:GQ	1:29
+MW051666.1	3910	.	G	A	25.084	PASS	DP=1;DPS=0,1	GT:GQ	1:25
+MW051666.1	3921	.	T	G	30.373	PASS	DP=1;DPS=0,1	GT:GQ	1:30
+MW051666.1	3924	.	T	C	31.454	PASS	DP=1;DPS=0,1	GT:GQ	1:31
+MW051666.1	3927	.	T	C	23.068	PASS	DP=1;DPS=0,1	GT:GQ	1:23
+MW051666.1	3942	.	A	G	29.496	PASS	DP=1;DPS=0,1	GT:GQ	1:29
+MW051666.1	3951	.	A	T	21.764	PASS	DP=1;DPS=0,1	GT:GQ	1:22
+MW051666.1	3954	.	C	G	24.189	PASS	DP=1;DPS=0,1	GT:GQ	1:24
+MW051666.1	3955	.	A	AG	28.824	PASS	DP=1;DPS=0,1	GT:GQ	1:29
+MW051666.1	3962	.	G	C	25.845	PASS	DP=1;DPS=0,1	GT:GQ	1:26
+MW051666.1	3964	.	CT	TG	52.948	PASS	DP=1;DPS=0,1	GT:GQ	1:53
+MW051666.1	3998	.	G	A	28.613	PASS	DP=1;DPS=0,1	GT:GQ	1:29
+MW051666.1	4000	.	A	G	32.075	PASS	DP=1;DPS=0,1	GT:GQ	1:32
+MW051666.1	4004	.	C	G	31.701	PASS	DP=1;DPS=0,1	GT:GQ	1:32
+MW051666.1	4007	.	CT	TG	61.666	PASS	DP=1;DPS=0,1	GT:GQ	1:62
+MW051666.1	4029	.	G	A	35.863	PASS	DP=1;DPS=0,1	GT:GQ	1:36
